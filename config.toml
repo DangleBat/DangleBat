@@ -1,0 +1,87 @@
+baseurl = "https://danglebat.com/"
+canonifyURLs = true
+languageCode = "en-us"
+theme = "terminal"
+paginate = 1
+
+[params]
+  contentTypeName = "stories"
+  themeColor = "orange"
+  showMenuItems = 6
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = true
+  showLastUpdated = false
+
+[taxonomies]
+  artist  = "artists"
+  author  = "authors"
+character = "characters"
+  subject = "subjects"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "The DangleBat Chronicles"
+    copyright = "The DangleBat Chronicles"
+    subtitle = "Furry Fiction: Suicide Art & Stories"
+    readMore = "Read Story"
+    readOtherPosts = "The DangleBat Chronicles"
+    newerPosts = "Previous Story"
+    olderPosts = "Next Story"
+
+    [languages.en.params.logo]
+      logoText = "The DangleBat Chronicles"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 1
+
+      [[languages.en.menu.main]]
+        identifier = "featured"
+        name = "Featured"
+        url = "/subjects/featured/"
+        weight = 2
+
+      [[languages.en.menu.main]]
+        identifier = "artists"
+        name = "Artists"
+        url = "/artists/"
+        weight = 3
+
+      [[languages.en.menu.main]]
+        identifier = "authors"
+        name = "Authors"
+        url = "/authors/"
+        weight = 4
+
+      [[languages.en.menu.main]]
+        identifier = "characters"
+        name = "Characters"
+        url = "/characters/"
+        weight = 5
+
+      [[languages.en.menu.main]]
+        identifier = "subjects"
+        name = "Subjects"
+        url = "/subjects/"
+        weight = 6
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
