@@ -1,0 +1,155 @@
+Bitcoin is the official currency of The DangleBat Chronicles.
+
+Our Primary account number is:
+bc1q7yy20nukdzks3085lj2gzeync5rkfvnjvwavva
+
+Our Master Public Key is:
+zpub6qbtXZttGc816fRMz4W7Q67Ko3aNJrdf6LSnPAPjjhJKwobNHff7uEBaEWVT5rs31Pj5eBohtUEpJoB3NPDiwo8h9FBt4SBxYMcVpTTUihb
+
+Account labels are available at:
+https://danglebat.com/bitcoin/labels.json
+
+As of 2023-05-29 our balance is 0.96205792 BTC.
+
+
+
+The DangleBat Chronicles welcomes donations to further our mission of empowering artists in developing nations.
+
+Individual Bitcoin account numbers are used to earmark donations for specific purposes.
+
+The DangleBat Chronicles maintains the following Bitcoin accounts:
+
+
+Bitcoin Account Number                       Purpose
+-------------------------------------------------------------------------
+bc1qdzq76xux4rtxxntfh6daexghzcguen0z62symx   DangleBat Membership Program
+bc1qs25uchh7fu9c8cv0s54zqw4dqjpxnsclhdgdkz   Donation for Enamel Pins
+bc1quu9zwrlj03mh2y4e9r72cscaqqxpuwmdgfglvg   Donation for Kigurumis
+bc1qpfft6c79wpqsx2scf99leet5ew87hknzy725n9   Donation for Plushies
+bc1qdrge62eaezy2urx4cvqcth6ylhengpqvg2wex0   Donation for Posters
+bc1q27y3q0s4mp5gh0q7hay7m78vprwsyk9laecwxr   Donation for Stickers
+bc1qprzud4wahw4vck0zefsfqegja4er5aufvfwp2e   Donation for VRChat Avatars
+bc1qcs67jaeq8s4z62jaa56tfaem4ytm3r7zvqfgpc   Endowments
+bc1q7yy20nukdzks3085lj2gzeync5rkfvnjvwavva   Treasury
+-------------------------------------------------------------------------
+
+
+
+The following ledger is a complete and correct account of all donations received and expenses incurred:
+
+
+Date         Transaction Description                                                                      Debit        Credit       Balance
+----------------------------------------------------------------------------------------------------------------------------------------------
+2022-08-05   Monthly Endowment: $2,500 (1 of 120)                                                                      0.10777707   0.10777707
+2022-08-08   Funds Consolidation to Treasury                                                             -0.0000022                 0.10777487
+2022-08-08   Staff Artist: $100 Wellbeing Bonus (Venezuela)                                              -0.00437544                0.10339943
+2022-08-22   Guest Artist: $500 Deposit for Kigurumi of "Orgen" Character (Ukraine)                      -0.02353719                0.07986224
+2022-08-27   Monthly Endowment: $2,500 (2 of 120)                                                                      0.12481671   0.20467895
+2022-08-30   Funds Consolidation to Treasury                                                             -0.00000726                0.20467169
+2022-08-30   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.03822436                0.16644733
+2022-08-30   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.02535198                0.14109535
+2022-08-30   Staff Artist: $300 Monthly Living Expenses (Dominican Republic)                             -0.01521486                0.12588049
+2022-08-30   Staff Artist: $300 Monthly Living Expenses (Mexico)                                         -0.0152131                 0.11066739
+2022-08-30   Staff Artist: $150 Monthly Living Expenses (Mexico)                                         -0.0076118                 0.10305559
+2022-08-30   Staff Artist: $150 Monthly Living Expenses (Venezuela)                                      -0.00772386                0.09533173
+2022-09-28   Monthly Endowment: $2,500 (3 of 120)                                                                      0.1277266    0.22305833
+2022-09-28   Funds Consolidation to Treasury                                                             -0.00001905                0.22303928
+2022-09-28   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.03841471                0.18462457
+2022-09-28   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.02560741                0.15901716
+2022-09-28   Staff Artist: $300 Monthly Living Expenses (Dominican Republic)                             -0.01536573                0.14365143
+2022-09-28   Staff Artist: $300 Monthly Living Expenses (Mexico)                                         -0.01536573                0.1282857
+2022-09-28   Staff Artist: $150 Monthly Living Expenses (Mexico)                                         -0.00768428                0.12060142
+2022-09-28   Staff Artist: $150 Monthly Living Expenses (Venezuela)                                      -0.00777722                0.1128242
+2022-10-21   Staff Equipment: Trezor Model T Bitcoin Wallet (El Salvador)                                -0.0124942                 0.10033
+2022-10-27   Monthly Endowment: $2,500 (4 of 120)                                                                      0.12138289   0.22171289
+2022-10-27   Funds Consolidation to Treasury                                                             -0.00001976                0.22169313
+2022-10-27   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.03650613                0.185187
+2022-10-27   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.02434091                0.16084609
+2022-10-27   Staff Artist: $300 Monthly Living Expenses (Dominican Republic)                             -0.01461071                0.14623538
+2022-10-27   Staff Artist: $300 Monthly Living Expenses (Mexico)                                         -0.01461071                0.13162467
+2022-10-27   Staff Artist: $150 Monthly Living Expenses (Mexico)                                         -0.00731331                0.12431136
+2022-10-27   Staff Artist: $150 Monthly Living Expenses (Venezuela)                                      -0.00741436                0.116897
+2022-11-16   Monthly Endowment: $2,500 (5 of 120)                                                                      0.14969903   0.26659603
+2022-11-28   Funds Consolidation to Treasury                                                             -0.00000338                0.26659265
+2022-11-28   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.04561523                0.22097742
+2022-11-28   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.03087446                0.19010296
+2022-11-28   Staff Artist: $300 Monthly Living Expenses (Dominican Republic)                             -0.01852496                0.171578
+2022-11-28   Staff Artist: $300 Monthly Living Expenses (Mexico)                                         -0.01852496                0.15305304
+2022-11-28   Staff Artist: $150 Monthly Living Expenses (Mexico)                                         -0.00926325                0.14378979
+2022-11-28   Staff Artist: $150 Monthly Living Expenses (Venezuela)                                      -0.00939606                0.13439373
+2022-12-14   Staff Artist: $500 Wellbeing Bonus (Venezuela)                                              -0.02827914                0.10611459
+2022-12-14   Staff Artist: $500 Wellbeing Bonus (Mexico)                                                 -0.02790807                0.07820652
+2022-12-16   Staff Artist: $1,000 Wellbeing Bonus (Dominican Republic)                                   -0.05745495                0.02075157
+2022-12-20   Monthly Endowment: $2,500 (6 of 120)                                                                      0.15190467   0.17265624
+2022-12-20   Funds Consolidation to Treasury                                                             -0.00000338                0.17265286
+2022-12-20   Staff Artist: $1,000 Wellbeing Bonus (Mexico)                                               -0.0607099                 0.11194296
+2022-12-24   Staff Artist: $1,000 Wellbeing Bonus (El Salvador)                                          -0.05963581                0.05230715
+2022-12-30   Annual Endowment: $20,000 (1 of 10)                                                                       1.20499349   1.25730064
+2022-12-30   Funds Consolidation to Treasury                                                             -0.00000196                1.25729868
+2022-12-30   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.04521657                1.21208211
+2022-12-30   Staff Artist: $350 Monthly Living Expenses (Dominican Republic)                             -0.0211019                 1.19098021
+2022-12-30   Staff Artist: $350 Monthly Living Expenses (Mexico)                                         -0.02110669                1.16987352
+2022-12-30   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.01055412                1.1593194
+2022-12-30   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.0107043                 1.1486151
+2023-01-31   Monthly Endowment: $2,500 (7 of 120)                                                                      0.10942358   1.25803868
+2023-01-31   Funds Consolidation to Treasury                                                             -0.00000303                1.25803565
+2023-01-31   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.03284896                1.22518669
+2023-01-31   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.02190892                1.20327777
+2023-01-31   Staff Artist: $350 Monthly Living Expenses (Dominican Republic)                             -0.01533694                1.18794083
+2023-01-31   Staff Artist: $350 Monthly Living Expenses (Mexico)                                         -0.01533831                1.17260252
+2023-01-31   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00767036                1.16493216
+2023-01-31   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00778167                1.15715049
+2023-02-08   Staff Equipment: Trezor Model T Bitcoin Wallet (Mexico)                                     -0.01028907                1.14686142
+2023-02-11   Staff Equipment: Import Tariff on Trezor Model T Bitcoin Wallet (Mexico)                    -0.00231152                1.1445499
+2023-02-17   Monthly Endowment: $2,500 (8 of 120)                                                                      0.10492783   1.24947773
+2023-02-20   NordicFuzzCon: $0.66 Cash Donation toward Plushies (0.66 USD)                                             0.00002687   1.2495046
+2023-02-22   NordicFuzzCon: $20.49 Cash Donation toward Membership Program (213.00 SEK)                                0.00086923   1.25037383
+2023-02-23   NordicFuzzCon: $2.10 Cash Donation toward Kigurumis (22.00 SEK)                                           0.0000893    1.25046313
+2023-02-24   NordicFuzzCon: $9.54 Cash Donation toward Stickers (100.00 SEK)                                           0.00040417   1.2508673
+2023-02-25   NordicFuzzCon: $0.74 Cash Donation toward Membership Program (0.70 EUR)                                   0.00003242   1.25089972
+2023-02-26   NordicFuzzCon: $95.25 Cash Donation toward Membership Program (1000.00 SEK)                               0.0041684    1.25506812
+2023-02-26   NordicFuzzCon: $38.08 Cash Donation toward Membership Program (400.00 SEK)                                0.00165617   1.25672429
+2023-02-26   Funds Consolidation to Treasury                                                             -0.00000648                1.25671781
+2023-02-26   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.03216185                1.22455596
+2023-02-26   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.02144173                1.20311423
+2023-02-26   Staff Artist: $350 Monthly Living Expenses (Dominican Republic)                             -0.01495449                1.18815974
+2023-02-26   Staff Artist: $350 Monthly Living Expenses (Mexico)                                         -0.01495449                1.17320525
+2023-02-26   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00745775                1.1657475
+2023-02-26   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00755773                1.15818977
+2023-02-26   NordicFuzzCon: $10.55 Cash Donation toward Enamel Pins (10.00 EUR)                                        0.00045124   1.15864101
+2023-02-26   NordicFuzzCon: $5.27 Cash Donation toward Kigurumis (5.00 EUR)                                            0.00022562   1.15886663
+2023-02-26   NordicFuzzCon: $5.27 Cash Donation toward Posters (5.00 EUR)                                              0.00022562   1.15909225
+2023-03-07   Merchandise Production: $1,150 for 1,000 48x80cm 180GSM Poster Prints of "Broken" (China)   -0.05137347                1.10771878
+2023-03-07   Sourcing Agent: $100 for Sourcing and Management of "Broken" Posters Order (Pakistan)       -0.00447731                1.10324147
+2023-03-07   Staff Artist: $450 Wellbeing Bonus (Venezuela)                                              -0.02011485                1.08312662
+2023-03-14   Staff Artist: $100 Wellbeing Bonus (El Salvador)                                            -0.00387973                1.07924689
+2023-03-14   Guest Artist: $600 Payment for Kigurumi of "Orgen" Character (Ukraine)                      -0.0230856                 1.05616129
+2023-03-24   Monthly Endowment: $2,500 (9 of 120)                                                                      0.08890075   1.14506204
+2023-03-26   Staff Equipment: Computer Backup Solution (Brazil)                                          -0.0089974                 1.13606464
+2023-03-29   Funds Consolidation to Treasury                                                             -0.0000225                 1.13604214
+2023-03-29   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.02646012                1.10958202
+2023-03-29   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.01764704                1.09193498
+2023-03-29   Staff Artist: $350 Monthly Living Expenses (Dominican Republic)                             -0.01235499                1.07957999
+2023-03-29   Staff Artist: $350 Monthly Living Expenses (Mexico)                                         -0.01234587                1.06723412
+2023-03-29   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00618962                1.0610445
+2023-03-29   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00626322                1.05478128
+2023-04-02   Staff Equipment: Trezor Model T Bitcoin Wallet (Brazil)                                     -0.00828145                1.04649983
+2023-04-20   Monthly Endowment: $2,500 (10 of 120)                                                                     0.0878798    1.13437963
+2023-04-28   Funds Consolidation to Treasury                                                             -0.00003204                1.13434759
+2023-04-28   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.0254405                 1.10890709
+2023-04-28   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.01696867                1.09193842
+2023-04-28   Staff Artist: $350 Monthly Living Expenses (Dominican Republic)                             -0.01189453                1.08004389
+2023-04-28   Staff Artist: $350 Monthly Living Expenses (Mexico)                                         -0.01189453                1.06814936
+2023-04-28   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.0059594                 1.06218996
+2023-04-28   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00609622                1.05609374
+2023-05-28   Monthly Endowment: $2,500 (11 of 120)                                                                     0.09343616   1.1495299
+2023-05-28   Funds Consolidation to Treasury                                                             -0.00003346                1.14949644
+2023-05-28   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.02771901                1.12177743
+2023-05-28   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.01849703                1.1032804
+2023-05-28   Staff Artist: $400 Monthly Living Expenses (Dominican Republic)                             -0.01480623                1.08847417
+2023-05-28   Staff Artist: $400 Monthly Living Expenses (Mexico)                                         -0.01480623                1.07366794
+2023-05-28   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00649581                1.06717213
+2023-05-28   Staff Equipment: Import Tariff on Trezor Model T Bitcoin Wallet (Brazil)                    -0.00519886                1.06197327
+2023-05-29   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00643769                1.05553558
+2023-05-29   Staff Artist: $2,600 Wellbeing Bonus (Venezuela)                                            -0.09347766                0.96205792
+----------------------------------------------------------------------------------------------------------------------------------------------

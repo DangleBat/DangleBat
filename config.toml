@@ -1,0 +1,104 @@
+baseURL = "https://danglebat.com/"
+canonifyURLs = true
+languageCode = "en-us"
+theme = "terminal"
+paginate = 1
+
+[params]
+  contentTypeName = "characters"
+  themeColor = "orange"
+  showMenuItems = 9
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = true
+  showLastUpdated = false
+
+[taxonomies]
+  artist    = "artists"
+  author    = "authors"
+  subject   = "subjects"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "The DangleBat Chronicles"
+    copyright = "The DangleBat Chronicles"
+    subtitle = "Furry Fiction: Dark Art & Stories"
+    readMore = "View More"
+    readOtherPosts = "The DangleBat Chronicles"
+    newerPosts = "Previous"
+    olderPosts = "Next"
+
+    [languages.en.params.logo]
+      logoText = "The DangleBat Chronicles"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 1
+
+      [[languages.en.menu.main]]
+        identifier = "characters"
+        name = "Characters"
+        url = "/characters/"
+        weight = 2
+
+      [[languages.en.menu.main]]
+        identifier = "stories"
+        name = "Stories"
+        url = "/stories/"
+        weight = 3
+
+      [[languages.en.menu.main]]
+        identifier = "community"
+        name = "Community"
+        url = "/community/"
+        weight = 4
+
+      [[languages.en.menu.main]]
+        identifier = "chronology"
+        name = "Chronology"
+        url = "/chronology/"
+        weight = 5
+
+      [[languages.en.menu.main]]
+        identifier = "artists"
+        name = "Artists"
+        url = "/artists/"
+        weight = 6
+
+      [[languages.en.menu.main]]
+        identifier = "authors"
+        name = "Authors"
+        url = "/authors/"
+        weight = 7
+
+      [[languages.en.menu.main]]
+        identifier = "subjects"
+        name = "Subjects"
+        url = "/subjects/"
+        weight = 8
+
+      [[languages.en.menu.main]]
+        identifier = "join"
+        name = "Join"
+        url = "/membership/"
+        weight = 9
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
