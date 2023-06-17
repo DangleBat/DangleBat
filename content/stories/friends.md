@@ -2,7 +2,7 @@
 date: 2011-05-15
 title: "Friends"
 author: "Lil Taiga"
-description: ""
+description: "Friends"
 cover: "illustrations/friends.png"
 images:
  - "illustrations/friends.png"
