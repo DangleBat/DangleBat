@@ -9,7 +9,7 @@ zpub6qbtXZttGc816fRMz4W7Q67Ko3aNJrdf6LSnPAPjjhJKwobNHff7uEBaEWVT5rs31Pj5eBohtUEp
 Account labels are available at:
 https://danglebat.com/bitcoin/labels.json
 
-As of 2023-05-29 our balance is 0.96205792 BTC.
+As of 2023-06-15 our balance is 0.77341445 BTC.
 
 
 
@@ -152,4 +152,9 @@ Date         Transaction Description                                            
 2023-05-28   Staff Equipment: Import Tariff on Trezor Model T Bitcoin Wallet (Brazil)                    -0.00519886                1.06197327
 2023-05-29   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00643769                1.05553558
 2023-05-29   Staff Artist: $2,600 Wellbeing Bonus (Venezuela)                                            -0.09347766                0.96205792
+2023-06-06   Staff Artist: $250 Wellbeing Bonus (Mexico)                                                 -0.010043                  0.95201492
+2023-06-06   Staff Artist: $2,600 Wellbeing Bonus (El Salvador)                                          -0.10003666                0.85197826
+2023-06-07   Staff Equipment: Trezor Model T Bitcoin Wallet (Venezuela)                                  -0.00924517                0.84273309
+2023-06-10   Infrastructure: $1,500 for 8 Energy Efficient IPFS Node Servers (China)                     -0.05930369                0.7834294
+2023-06-15   Staff Artist: $250 Wellbeing Bonus (Brazil)                                                 -0.01001495                0.77341445
 ----------------------------------------------------------------------------------------------------------------------------------------------

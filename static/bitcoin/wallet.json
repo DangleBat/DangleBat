@@ -694,6 +694,7 @@
         "40c1a7cbb5477beb3e00ead047b50f7d96587a06604719ce366c656a3fffb55d": "Monthly Endowment: $2,500 (3 of 120)",
         "43219f631bd1bc8c592c5808c3fc0d796fe525ab4634b68d0930163e9b4b7ba8": "NordicFuzzCon: $0.74 Cash Donation toward Membership Program (0.70 EUR)",
         "434446fb1d1f8634b3af931c60529dedfc300a3e23bab189a2e580825fa97e16": "Staff Artist: $150 Monthly Living Expenses (Mexico)",
+        "4c53e83c82a9a02a1f5d229abf334bdea32976c40881f172f1d59f2dcf9f5d8a": "Staff Equipment: Trezor Model T Bitcoin Wallet (Venezuela)",
         "4dc2123171a643b6e1d7c1464a14e586b19ddf046343db3ffcf0bed035fa979d": "Staff Artist: $450 Wellbeing Bonus (Venezuela)",
         "4f70d06d3111f4dbf8c9c3118a34a66521b48d4154d1016e0aa7d2f29ea7ec5f": "Staff Equipment: Computer Backup Solution (Brazil)",
         "5179fd45c08a14113862de57bab817349ae4abfac2f4a54a24227c2cbdebb7c9": "NordicFuzzCon: $95.25 Cash Donation toward Membership Program (1000.00 SEK)",
@@ -708,6 +709,7 @@
         "5d8e39082de51a2864a62eb5b5d60ec44d7d2026738a70705b13be1939a1d388": "Staff Artist: $400 Monthly Living Expenses (Mexico)",
         "5dd5e020fef656a7c5b2f4b0b6a1e2917cb1520f9c5b96c910392826de5d0fb8": "Staff Artist: $750 Monthly Living Expenses (El Salvador)",
         "5f121db16d2e9ca64559e21a220e6c694eb99d7d7393c220a9a2050415b55c89": "Staff Artist: $150 Monthly Living Expenses (Venezuela)",
+        "5f489f080b02e0a7a44cc853ebdebed6b3da32c5bd59b666610e5016b5c023cd": "Staff Artist: $2,600 Wellbeing Bonus (El Salvador)",
         "5f78260bee64a6fb01c3cbf2e854814db6fd1f6e22bf9b3d82a1e6b290e06248": "Staff Artist: $500 Monthly Living Expenses (Brazil)",
         "5fee94ae7a9bd122469f38525a6413317252152b67ef2ced7c54ba5d6df48a39": "Staff Artist: $350 Monthly Living Expenses (Mexico)",
         "61d936ea48d655befa831664c6376a2ca66cb78f415559c85050701a57c38395": "Staff Equipment: Import Tariff on Trezor Model T Bitcoin Wallet (Brazil)",
@@ -725,6 +727,7 @@
         "7ebe063a445d4a671a1bd922ad153e20a227a72debfa8f066e3693209ecd898a": "NordicFuzzCon: $0.66 Cash Donation toward Plushies (0.66 USD)",
         "82806541f9852a61b9cd8bfc2778a29f38e45e7b76d3b5af4bcee1325fee5106": "Staff Artist: $350 Monthly Living Expenses (Mexico)",
         "82a4ae3ef0d04a643fabaf2b5e94ce07eecac018d9cffc0952a4a19beae68a6c": "Staff Artist: $500 Monthly Living Expenses (Brazil)",
+        "83666b31fe1b7d6e24b9b28c420ba8fca9f45ad41da63ca22d82bc9ba0345781": "Staff Artist: $250 Wellbeing Bonus (Brazil)",
         "8366c24c5f76e4d52d89c1c1761042ce7830a128087fb7e7dc0a316d914b1b97": "Staff Artist: $750 Monthly Living Expenses (El Salvador)",
         "8614588b722d995df7981d6746e17c539c68d9c5159dc85ad3dd47f5e8544714": "Staff Artist: $300 Monthly Living Expenses (Mexico)",
         "864b4aa596083d583da988bd16bd8c2435aee060f6e42ac15fb223781ff2205d": "Staff Equipment: Trezor Model T Bitcoin Wallet (Mexico)",
@@ -736,9 +739,11 @@
         "9b2ebbdf79919b67cd1ade0cb934d4f74a8a8564c0b3b8dc87a6fbd00da0520a": "Staff Artist: $100 Wellbeing Bonus (Venezuela)",
         "9c6031130578b171f26a906b73aba985a2f43e5ff249bd8329c813b9f6ade789": "NordicFuzzCon: $9.54 Cash Donation toward Stickers (100.00 SEK)",
         "9d736f48d498baea8ec54006b96027f8cf6307f1f6543537cab0aa4b7e3bb9c9": "NordicFuzzCon: $10.55 Cash Donation toward Enamel Pins (10.00 EUR)",
+        "a4eb7477e5e44245c5479fc743f2616a5495d6b4e496d9c7a6169d26e2b7205b": "Anonymous Donation",
         "a5f70c2651ec4011ae13665ff2b03600cfa46d72a1589862dcea410cc60b4f5d": "Monthly Endowment: $2,500 (1 of 120)",
         "acbac1f2d2e769b6240f60519d493e1b4e9637ec82829b38b8e6f32f825e4b36": "Staff Artist: $300 Monthly Living Expenses (Mexico)",
         "acbfbf685959e818c37e16139d8724d42e6e1c8c8c9a99c53891b4da882c21f0": "Monthly Endowment: $2,500 (6 of 120)",
+        "af53a4c465e35299653b82963cc433043542ec7f5e34759bf6d3095bf516a557": "Infrastructure: $1,500 for 8 Energy Efficient IPFS Node Servers (China)",
         "b248c6572d50d866050618ed2da6d3146bc901dd462433d44c67b3fd76b63c5d": "Funds Consolidation to Treasury",
         "b2a7aa3126795abc9e3c34445d2d1d57a9027a952c1e571cec34c82932436a8a": "NordicFuzzCon: $5.27 Cash Donation toward Kigurumis (5.00 EUR)",
         "b5d034a7a8d34343f4fede2371787d7553a6d54804ddb477cec1fece78773d67": "Staff Artist: $750 Monthly Living Expenses (El Salvador)",
@@ -768,6 +773,7 @@
         "e1efc42bb502d2254d9d0a4e44ec44481603a477519419e2c25fb25e81caebcd": "Monthly Endowment: $2,500 (9 of 120)",
         "e2e897ee085845e495412391b75ecedebe331b6cfddd53022b3f1ef23f18e5ff": "Monthly Endowment: $2,500 (5 of 120)",
         "e3f650f3e5eb4a6f17a983772ed738c4582cf80c3dbd165f81448b1d6628a35f": "Monthly Endowment: $2,500 (4 of 120)",
+        "e9467f26b3f0ad6acf26383a729707f5335f5cbca2b9729b3dd545dc71c7f90b": "Staff Artist: $250 Wellbeing Bonus (Mexico)",
         "e9ed8ddfc66bf0dcf755c2f7ef301c555db1b73effa785995e53375f861bbb2f": "Staff Artist: $150 Monthly Living Expenses (Mexico)",
         "f2f944bc96540f3588a7bbd7c8b3d16084b830b689b7701cd3219297b7288163": "NordicFuzzCon: $5.27 Cash Donation toward Posters (5.00 EUR)",
         "f561304d98390d5d123e2b0a58e5f6e934642bd3a1dcfbf96c5ef21417fd0a5e": "Staff Artist: $400 Monthly Living Expenses (Dominican Republic)",
@@ -939,12 +945,12 @@
                 116572063
             ],
             [
-                "5ac95b238a793a746b80ec71faf7148264cd09b5d4cb81160c5678e8cb48e911:1",
-                114454990
-            ],
-            [
                 "fe6ed0ef0584d8e38850cacef09f44a6dbc3a95c6f9b0a7d5f82e4892fc7a6a0:0",
                 10777487
+            ],
+            [
+                "5ac95b238a793a746b80ec71faf7148264cd09b5d4cb81160c5678e8cb48e911:1",
+                114454990
             ],
             [
                 "06375b2792c759b9e582dec474265fdfdaba335c495c08c482437278d3dfee1d:1",
@@ -993,10 +999,6 @@
             [
                 "8366c24c5f76e4d52d89c1c1761042ce7830a128087fb7e7dc0a316d914b1b97:1",
                 122518669
-            ],
-            [
-                "1dc87e82af90e8c92a5b02f8684a27a63028d4924de312b560f330d39a0f2eb2:1",
-                110958202
             ],
             [
                 "551e7fdc63f62a1632423bd659a3714c3bd16a47c434a4ec96b09e0d7c3030c8:1",
@@ -1109,6 +1111,10 @@
             [
                 "8c86d619c5df7a597f1fa93b7648a15c3ba0a5510e816c7c6591e772a61403be:1",
                 107831754
+            ],
+            [
+                "864b4aa596083d583da988bd16bd8c2435aee060f6e42ac15fb223781ff2205d:1",
+                114686142
             ],
             [
                 "6222040cbd0a8f9575f1a94eaf792c035c72e7eb72027c4fd80dd7e38f251fb5:1",
@@ -1279,8 +1285,8 @@
                 113434759
             ],
             [
-                "864b4aa596083d583da988bd16bd8c2435aee060f6e42ac15fb223781ff2205d:1",
-                114686142
+                "1dc87e82af90e8c92a5b02f8684a27a63028d4924de312b560f330d39a0f2eb2:1",
+                110958202
             ]
         ],
         "458071b617c5356f024a2768fdb5958c73a1c12ca015c359b2205934bb11065e": [
@@ -1405,12 +1411,12 @@
                 10777707
             ],
             [
-                "033beb89c6caaf7270364c238df830cdb600580d934b3211e5eb685dd83543bd:0",
-                10942358
-            ],
-            [
                 "146b04b69b46e0e5cf8576aa553aab6fa1552823b7fbbba085fac7772d2ec0cf:0",
                 9343616
+            ],
+            [
+                "d88f290ff8675105ea2736e754bf9d6bb6db65bbaad1cf27a18c0832cb175439:0",
+                8787980
             ],
             [
                 "52c6dbc14b77610d31858365b2f4f4164df2891a86fb2b18b046e17874e66cf5:0",
@@ -1437,8 +1443,8 @@
                 12138289
             ],
             [
-                "d88f290ff8675105ea2736e754bf9d6bb6db65bbaad1cf27a18c0832cb175439:0",
-                8787980
+                "033beb89c6caaf7270364c238df830cdb600580d934b3211e5eb685dd83543bd:0",
+                10942358
             ]
         ],
         "aea14360612b0979490be11757e430c367e0cc7af6b5536aa7aa064093457dd1": [
@@ -1513,24 +1519,24 @@
         ],
         "cfb109ded653763b6f5cb654d2d3e95fcd280e435853850f1d2236073b164a6d": [
             [
-                "82a4ae3ef0d04a643fabaf2b5e94ce07eecac018d9cffc0952a4a19beae68a6c:0",
-                1763984
-            ],
-            [
-                "00855868dbfff99d05000826ead0bed50dba0527c97617ffd4ef8c701a9e3355:0",
-                2144029
-            ],
-            [
                 "06375b2792c759b9e582dec474265fdfdaba335c495c08c482437278d3dfee1d:0",
                 2560453
+            ],
+            [
+                "cf582bca8d482375e0c358b386aa2eb5b823bd0854f99cab9dcac63676b178c8:0",
+                2190647
+            ],
+            [
+                "82a4ae3ef0d04a643fabaf2b5e94ce07eecac018d9cffc0952a4a19beae68a6c:0",
+                1763984
             ],
             [
                 "5f78260bee64a6fb01c3cbf2e854814db6fd1f6e22bf9b3d82a1e6b290e06248:0",
                 2534248
             ],
             [
-                "cf582bca8d482375e0c358b386aa2eb5b823bd0854f99cab9dcac63676b178c8:0",
-                2190647
+                "00855868dbfff99d05000826ead0bed50dba0527c97617ffd4ef8c701a9e3355:0",
+                2144029
             ],
             [
                 "4f70d06d3111f4dbf8c9c3118a34a66521b48d4154d1016e0aa7d2f29ea7ec5f:0",
@@ -1581,6 +1587,10 @@
                 6070720
             ],
             [
+                "cede1a201104c74d868ec2f71103d504198c2d27d5c46a7b2f3cfa23037b7b24:0",
+                2110034
+            ],
+            [
                 "8614588b722d995df7981d6746e17c539c68d9c5159dc85ad3dd47f5e8544714:0",
                 1459495
             ],
@@ -1607,10 +1617,6 @@
             [
                 "1dc87e82af90e8c92a5b02f8684a27a63028d4924de312b560f330d39a0f2eb2:0",
                 2645302
-            ],
-            [
-                "07344a349a02b719f4accd193ca603c6b6308cff6038f2642c0bc0b8070e422a:0",
-                1533453
             ],
             [
                 "3283d654e9e8f5fca79214f3ab16678305d6a349241450aad9c6f63191afeac6:0",
@@ -1745,8 +1751,8 @@
                 1852226
             ],
             [
-                "cede1a201104c74d868ec2f71103d504198c2d27d5c46a7b2f3cfa23037b7b24:0",
-                2110034
+                "07344a349a02b719f4accd193ca603c6b6308cff6038f2642c0bc0b8070e422a:0",
+                1533453
             ],
             [
                 "27caa6fb938b475c2b79eee3b439eb5f02f16a58df6ca6e14242ae1b0e85c305:0",
@@ -2182,7 +2188,7 @@
             "0": "9b2ebbdf79919b67cd1ade0cb934d4f74a8a8564c0b3b8dc87a6fbd00da0520a"
         }
     },
-    "stored_height": 791883,
+    "stored_height": 794978,
     "transactions": {
         "00855868dbfff99d05000826ead0bed50dba0527c97617ffd4ef8c701a9e3355": "020000000001019d376885f5cb92875d5b78a0450d7e5720d4f6588998da45dd73b2112fc0b2bb0100000000feffffff021db72000000000001976a914ff44981c8d16ded89e73660d0b5430d632ba7e6388ac00c42b0700000000160014f108a7cf9668ad08bcf4fc94816493c50764b272024830450221008ad97f7aeaa9c6c90afea265f2a3b946f2baa4ed473dad6cfead41ef3ab1a59402204ddd267874b71a048f2325bd202bc172f5189ab57320d139bf2da7c20a4238a001210246be61a50d877622505f32f26e5130979539ab185112a70b66f9cd09b5ce4a6ba7e00b00",
         "033beb89c6caaf7270364c238df830cdb600580d934b3211e5eb685dd83543bd": "0200000000010109bcd7a08b8e4e29459f82f856850611d609f833ae13005e8e9261c6dbd650850000000000fdffffff0296f7a60000000000160014c435e977203c2a2d2a5ded34b4f73ba917b88fc2feb52201000000001600141b5e65ee97b55829edd229a47dc56ec194f7c95e0247304402201865d2dba493d1a8f2329376964fa406b65d2975d6f7d478580cb63455f099ff0220543ba8a2f662ed0f8327e13ad75593fbc52e8281be78bdd390a1764bd8f3083c012102184a3458c0bd712edece15e42b7ff4d7dd4168f594ffc033f64e382638a9708d12d10b00",
