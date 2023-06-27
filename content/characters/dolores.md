@@ -10,8 +10,7 @@ images:
 artists:
  - "Fycroh"
 ---
-## Character Reference Sheet
-![Dolores](/personifications/dolores.png)
+{{< figure src="/references/dolores.png" alt="Character Reference Sheet" position="center" style="border-radius: 8px;" caption="Character Reference Sheet" captionPosition="right" captionStyle="color: orange;" >}}
 >Credits
 >
 >Character Design: [Lil Taiga](https://twitter.com/liltaiga4)  
