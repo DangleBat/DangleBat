@@ -141,11 +141,10 @@ Icon=gnome_network_workgroup
 Terminal=false
 EOF
 
-sed -i 's/# And last/fbliveapp chromium http:\/\/127.0.0.1:5001\/webui\/ \&\n\n# And last/' /root/.fluxbox/startup
-
 # Format & Mount Device
 : "${DEV:=sda}"
-mkfs -t ext4 "/dev/${DEV}"
+: "${FS:=ext4}"
+mkfs -t "${FS}" "/dev/${DEV}"
 mount -v "/dev/${DEV}" /mnt
 
 # Install Slax
