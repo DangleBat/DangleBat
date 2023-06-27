@@ -9,7 +9,7 @@ zpub6qbtXZttGc816fRMz4W7Q67Ko3aNJrdf6LSnPAPjjhJKwobNHff7uEBaEWVT5rs31Pj5eBohtUEp
 Account labels are available at:
 https://danglebat.com/bitcoin/labels.json
 
-As of 2023-06-15 our balance is 0.77341445 BTC.
+As of 2023-06-27 our balance is 0.77657448 BTC.
 
 
 
@@ -157,4 +157,12 @@ Date         Transaction Description                                            
 2023-06-07   Staff Equipment: Trezor Model T Bitcoin Wallet (Venezuela)                                  -0.00924517                0.84273309
 2023-06-10   Infrastructure: $1,500 for 8 Energy Efficient IPFS Node Servers (China)                     -0.05930369                0.7834294
 2023-06-15   Staff Artist: $250 Wellbeing Bonus (Brazil)                                                 -0.01001495                0.77341445
+2023-06-27   Monthly Endowment: $2,500 (12 of 120)                                                                     0.08178493   0.85519938
+2023-06-27   Funds Consolidation to Treasury                                                             -0.00002261                0.85517677
+2023-06-27   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.02454493                0.83063184
+2023-06-27   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.01634918                0.81428266
+2023-06-27   Staff Artist: $400 Monthly Living Expenses (Dominican Republic)                             -0.01307059                0.80121207
+2023-06-27   Staff Artist: $400 Monthly Living Expenses (Mexico)                                         -0.01307706                0.78813501
+2023-06-27   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00573321                0.7824018
+2023-06-27   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00582732                0.77657448
 ----------------------------------------------------------------------------------------------------------------------------------------------
