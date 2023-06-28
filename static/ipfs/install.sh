@@ -144,6 +144,7 @@ EOF
 # Format & Mount Device
 : "${DEV:=sda}"
 : "${FS:=ext4}"
+[ -n "$WIPE" ] && dd if=/dev/zero of="/dev/${DEV}" bs=16M status=progress; sync
 mkfs -t "${FS}" "/dev/${DEV}"
 mount -v "/dev/${DEV}" /mnt
 
