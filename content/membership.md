@@ -16,6 +16,6 @@ However, in line with the spirit of our project, membership in *The DangleBat Ch
 
 Donating to *The DangleBat Chronicles* is more than just a financial transaction – it is an affirmation of your belief in the transformative power of art, stories, and shared human experiences.
 
-If you believe in what we're doing and would like to support us, you can make your donation to our Bitcoin address: `[bc1qdzq76xux4rtxxntfh6daexghzcguen0z62symx](bitcoin:bc1qdzq76xux4rtxxntfh6daexghzcguen0z62symx?label=The+DangleBat+Chronicles+Membership+Program)`. Any amount, large or small, will make a significant difference and be greatly appreciated.
+If you believe in what we're doing and would like to support us, you can make your donation to our Bitcoin address: **[bc1qdzq76xux4rtxxntfh6daexghzcguen0z62symx](bitcoin:bc1qdzq76xux4rtxxntfh6daexghzcguen0z62symx?label=The+DangleBat+Chronicles+Membership+Program)**. Any amount, large or small, will make a significant difference and be greatly appreciated.
 
 Thank you for considering a donation to *The DangleBat Chronicles*. Your support enables us to continue our work, and we are truly grateful for it.
