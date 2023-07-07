@@ -6,8 +6,13 @@
 # Set Hostname
 hostnamectl set-hostname ipfs
 
+# Enable Automatic Updates
+apt -y install unattended-upgrades
+echo unattended-upgrades unattended-upgrades/enable_auto_updates boolean true | debconf-set-selections
+dpkg-reconfigure -f noninteractive unattended-upgrades
+
 # Install & Configure IPFS
-: "${VER:=0.20.0}"
+: "${VER:=0.21.0}"
 [ "$(uname -m)" = 'x86_64' ] && ARCH='amd64' || ARCH='386'
 wget -qO- "https://dist.ipfs.tech/kubo/v${VER}/kubo_v${VER}_linux-${ARCH}.tar.gz" | tar -zxvf -
 
