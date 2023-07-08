@@ -6,6 +6,9 @@
 # Set Hostname
 hostnamectl set-hostname ipfs
 
+# Install Firmware
+apt -y install firmware-misc-nonfree
+
 # Enable Automatic Updates
 apt -y install unattended-upgrades
 echo unattended-upgrades unattended-upgrades/enable_auto_updates boolean true | debconf-set-selections
