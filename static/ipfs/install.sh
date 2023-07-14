@@ -2,6 +2,10 @@
 
 # The DangleBat Chronicles
 # IPFS Node Installer for Slax 11.6.0
+# Version 20230713
+
+# Set Time
+ntpdate de.pool.ntp.org
 
 # Set Hostname
 hostnamectl set-hostname ipfs
