@@ -2,7 +2,7 @@
 
 # The DangleBat Chronicles
 # IPFS Node Installer for Slax 11.6.0
-# Version 20230715
+# Version 20230716
 
 # Set Time
 ntpdate de.pool.ntp.org
@@ -52,10 +52,7 @@ ExecStartPre=-/usr/bin/rm /ipfs/.placeholder /ipns/.placeholder
 ExecStartPre=-/usr/local/bin/ipfs init
 ExecStartPre=/usr/local/bin/ipfs config Gateway.RootRedirect '/ipns/danglebat.com/'
 ExecStartPre=/usr/local/bin/ipfs config --json Mounts.FuseAllowOther true
-# ExecStartPre=/usr/local/bin/ipfs config --json Addresses.API '["/ip4/0.0.0.0/tcp/5001","/ip6/::/tcp/5001"]'
 ExecStartPre=/usr/local/bin/ipfs config --json Addresses.Gateway '["/ip4/0.0.0.0/tcp/80","/ip4/0.0.0.0/tcp/8080","/ip6/::/tcp/80","/ip6/::/tcp/8080"]'
-# ExecStartPre=/usr/local/bin/ipfs config --json API.HTTPHeaders.Access-Control-Allow-Origin '["http://127.0.0.1:5001","http://ipfs:5001"]'
-# ExecStartPre=/usr/local/bin/ipfs config --json API.HTTPHeaders.Access-Control-Allow-Methods '["PUT","GET","POST"]'
 ExecStart=/usr/local/bin/ipfs daemon --mount --migrate --agent-version-suffix=DangleBat
 Restart=on-failure
 KillSignal=SIGINT
