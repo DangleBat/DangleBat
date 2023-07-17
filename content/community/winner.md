@@ -1,8 +1,8 @@
 ---
 date: 2010-07-22
-title: "Winner!"
+title: "Winner"
 author: "Cotton Salty"
-description: "Winner!"
+description: "Winner"
 cover: "contributions/winner.png"
 images:
  - "contributions/winner.png"
