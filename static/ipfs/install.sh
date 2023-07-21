@@ -2,7 +2,7 @@
 
 # The DangleBat Chronicles
 # IPFS Node Installer for Slax 11.6.0
-# Version 20230721
+# Version 20230722
 
 # Set Time
 ntpdate de.pool.ntp.org
@@ -164,7 +164,7 @@ savechanges /mnt/slax/modules/danglebat.sb
 /mnt/slax/boot/bootinst.sh
 
 # Custom DynFileFS Settings
-: "${SIZE:=$(( $(cat "/sys/class/block/${DEV}/size") / 1024*1024*2 - 1 ))}"
+: "${SIZE:=$(( $(cat "/sys/class/block/${DEV}/size") / 2097152 - 1 ))}"
 initramfs_unpack /mnt/slax/boot/initrfs.img
 sed -i "s/16000/${SIZE}000/" /mnt/slax/boot/initrfs.img/lib/livekitlib
 [ "${SIZE}" -gt   36 ] && [ "${SIZE}" -le  396 ] && sed -i 's/changes.dat.0/changes.dat.00/'   /mnt/slax/boot/initrfs.img/lib/livekitlib
