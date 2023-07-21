@@ -164,7 +164,7 @@ savechanges /mnt/slax/modules/danglebat.sb
 /mnt/slax/boot/bootinst.sh
 
 # Custom DynFileFS Settings
-: "${SIZE:=$(( $(cat "/sys/class/block/${DEV}/size") / 1024*1024*2 - 1))}"
+: "${SIZE:=$(( $(cat "/sys/class/block/${DEV}/size") / 1024*1024*2 - 1 ))}"
 rm -fv /mnt/slax/changes/*
 initramfs_unpack /mnt/slax/boot/initrfs.img
 sed -i "s/16000/${SIZE}000/" /mnt/slax/boot/initrfs.img/lib/livekitlib
