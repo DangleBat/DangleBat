@@ -172,5 +172,3 @@ sed -i "s/16000/${SIZE}000/" /mnt/slax/boot/initrfs.img/lib/livekitlib
 [ "${SIZE}" -gt  396 ] && [ "${SIZE}" -le 3996 ] && sed -i 's/changes.dat.0/changes.dat.000/'  /mnt/slax/boot/initrfs.img/lib/livekitlib
 [ "${SIZE}" -gt 3996 ]                           && sed -i 's/changes.dat.0/changes.dat.0000/' /mnt/slax/boot/initrfs.img/lib/livekitlib
 initramfs_pack /mnt/slax/boot/initrfs.img
-
-sync && echo OK
