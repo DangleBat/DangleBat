@@ -160,5 +160,15 @@ mount -v "/dev/${DEV}" /mnt
 
 # Install Slax
 cp -rv /run/initramfs/memory/data/slax /mnt
-savechanges /mnt/slax/modules/05-danglebat.sb
+savechanges /mnt/slax/modules/danglebat.sb
 /mnt/slax/boot/bootinst.sh
+
+# Custom DynFileFS Settings
+: "${SIZE:=$(( $(cat "/sys/class/block/${DEV}/size") / 1024*1024*2 - 1))}"
+rm -fv /mnt/slax/changes/*
+initramfs_unpack /mnt/slax/boot/initrfs.img
+sed -i "s/16000/${SIZE}000/" /mnt/slax/boot/initrfs.img/lib/livekitlib
+[ "${SIZE}" -gt   36 ] && [ "${SIZE}" -le  396 ] && sed -i 's/changes.dat.0/changes.dat.00/'   /mnt/slax/boot/initrfs.img/lib/livekitlib
+[ "${SIZE}" -gt  396 ] && [ "${SIZE}" -le 3996 ] && sed -i 's/changes.dat.0/changes.dat.000/'  /mnt/slax/boot/initrfs.img/lib/livekitlib
+[ "${SIZE}" -gt 3996 ]                           && sed -i 's/changes.dat.0/changes.dat.0000/' /mnt/slax/boot/initrfs.img/lib/livekitlib
+initramfs_pack /mnt/slax/boot/initrfs.img
