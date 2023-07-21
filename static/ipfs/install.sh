@@ -2,7 +2,7 @@
 
 # The DangleBat Chronicles
 # IPFS Node Installer for Slax 11.6.0
-# Version 20230716
+# Version 20230721
 
 # Set Time
 ntpdate de.pool.ntp.org
