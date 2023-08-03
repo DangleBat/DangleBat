@@ -49,7 +49,7 @@ User=guest
 Group=guest
 StateDirectory=ipfs
 Environment=IPFS_PATH="/home/guest/.ipfs"
-ExecStartPre=-/usr/bin/rm /ipfs/.placeholder /ipns/.placeholder
+ExecStartPre=-/usr/bin/rm /ipfs/.placeholder /ipns/.placeholder /home/guest/.ipfs/config
 ExecStartPre=-/usr/local/bin/ipfs init
 ExecStartPre=/usr/local/bin/ipfs config Gateway.RootRedirect '/ipns/danglebat.com/'
 ExecStartPre=/usr/local/bin/ipfs config --json Mounts.FuseAllowOther true
