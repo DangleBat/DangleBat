@@ -2,14 +2,17 @@
 
 # The DangleBat Chronicles
 # IPFS Node Installer for Slax 11.6.0
-# Version 20230722
-
-# Set Time
-ntpdate de.pool.ntp.org
+# Version 20230812
 
 # Set Hostname
 : "${HOST:=ipfs}"
 hostnamectl set-hostname "${HOST}"
+
+# Set Time
+ntpdate 0.debian.pool.ntp.org
+timedatectl set-timezone UTC
+timedatectl set-local-rtc 0
+apt -y install systemd-timesyncd
 
 # Install Firmware
 apt -y install firmware-misc-nonfree
