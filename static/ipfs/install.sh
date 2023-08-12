@@ -98,11 +98,15 @@ systemctl enable ipfs-pinning.timer
 
 # Install & Configure Samba
 apt -y install samba
+touch /var/log/samba/.placeholder
 rm -vf /usr/share/applications/python*.desktop
 
 cat << EOF > /etc/samba/smb.conf
 [global]
 server role = standalone
+domain master = no
+local master = no
+preferred master = no
 map to guest = Bad User
 
 [ipfs]
