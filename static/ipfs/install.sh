@@ -2,7 +2,7 @@
 
 # The DangleBat Chronicles
 # IPFS Node Installer for Slax 11.6.0
-# Version 20230812
+# Version 20230813
 
 # Set Hostname
 : "${HOST:=ipfs}"
@@ -23,7 +23,7 @@ echo unattended-upgrades unattended-upgrades/enable_auto_updates boolean true | 
 dpkg-reconfigure -f noninteractive unattended-upgrades
 
 # Install & Configure IPFS
-: "${VER:=0.21.0}"
+: "${VER:=0.22.0}"
 [ "$(uname -m)" = 'x86_64' ] && ARCH='amd64' || ARCH='386'
 wget -qO- "https://dist.ipfs.tech/kubo/v${VER}/kubo_v${VER}_linux-${ARCH}.tar.gz" | tar -zxvf -
 
@@ -98,7 +98,6 @@ systemctl enable ipfs-pinning.timer
 
 # Install & Configure Samba
 apt -y install samba
-touch /var/log/samba/.placeholder
 rm -vf /usr/share/applications/python*.desktop
 
 cat << EOF > /etc/samba/smb.conf
