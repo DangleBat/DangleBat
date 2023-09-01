@@ -18,4 +18,4 @@ Story under development.
 >Credits
 >
 >Artist: [Equinox](https://t.me/EquinoxMisteryArt)  
->Author:  
+>Author:
