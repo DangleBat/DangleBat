@@ -2,7 +2,7 @@
     {
         "bc_balance": "0.10777707",
         "bc_value": "0.10777707",
-        "confirmations": 52402,
+        "confirmations": 57689,
         "date": "2022-08-05 23:37",
         "fee": null,
         "fee_sat": null,
@@ -17,7 +17,7 @@
     {
         "bc_balance": "0.10777487",
         "bc_value": "-0.0000022",
-        "confirmations": 52063,
+        "confirmations": 57350,
         "date": "2022-08-08 03:35",
         "fee": "0.0000022",
         "fee_sat": 220,
@@ -32,7 +32,7 @@
     {
         "bc_balance": "0.10339943",
         "bc_value": "-0.00437544",
-        "confirmations": 52063,
+        "confirmations": 57350,
         "date": "2022-08-08 03:35",
         "fee": "0.00000282",
         "fee_sat": 282,
@@ -47,7 +47,7 @@
     {
         "bc_balance": "0.07986224",
         "bc_value": "-0.02353719",
-        "confirmations": 49955,
+        "confirmations": 55242,
         "date": "2022-08-22 14:19",
         "fee": "0.00000282",
         "fee_sat": 282,
@@ -62,7 +62,7 @@
     {
         "bc_balance": "0.20467895",
         "bc_value": "0.12481671",
-        "confirmations": 49125,
+        "confirmations": 54412,
         "date": "2022-08-27 20:59",
         "fee": null,
         "fee_sat": null,
@@ -77,7 +77,7 @@
     {
         "bc_balance": "0.20467169",
         "bc_value": "-0.00000726",
-        "confirmations": 48651,
+        "confirmations": 53938,
         "date": "2022-08-30 19:57",
         "fee": "0.00000726",
         "fee_sat": 726,
@@ -92,7 +92,7 @@
     {
         "bc_balance": "0.16644733",
         "bc_value": "-0.03822436",
-        "confirmations": 48644,
+        "confirmations": 53931,
         "date": "2022-08-30 21:05",
         "fee": "0.00001386",
         "fee_sat": 1386,
@@ -107,7 +107,7 @@
     {
         "bc_balance": "0.14109535",
         "bc_value": "-0.02535198",
-        "confirmations": 48644,
+        "confirmations": 53931,
         "date": "2022-08-30 21:05",
         "fee": "0.0000095",
         "fee_sat": 950,
@@ -122,7 +122,7 @@
     {
         "bc_balance": "0.12588049",
         "bc_value": "-0.01521486",
-        "confirmations": 48644,
+        "confirmations": 53931,
         "date": "2022-08-30 21:05",
         "fee": "0.00000937",
         "fee_sat": 937,
@@ -137,7 +137,7 @@
     {
         "bc_balance": "0.11066739",
         "bc_value": "-0.0152131",
-        "confirmations": 48644,
+        "confirmations": 53931,
         "date": "2022-08-30 21:05",
         "fee": "0.00000937",
         "fee_sat": 937,
@@ -152,7 +152,7 @@
     {
         "bc_balance": "0.10305559",
         "bc_value": "-0.0076118",
-        "confirmations": 48644,
+        "confirmations": 53931,
         "date": "2022-08-30 21:05",
         "fee": "0.00000994",
         "fee_sat": 994,
@@ -167,7 +167,7 @@
     {
         "bc_balance": "0.09533173",
         "bc_value": "-0.00772386",
-        "confirmations": 48644,
+        "confirmations": 53931,
         "date": "2022-08-30 21:05",
         "fee": "0.00000987",
         "fee_sat": 987,
@@ -182,7 +182,7 @@
     {
         "bc_balance": "0.22305833",
         "bc_value": "0.1277266",
-        "confirmations": 44423,
+        "confirmations": 49710,
         "date": "2022-09-28 22:39",
         "fee": null,
         "fee_sat": null,
@@ -197,7 +197,7 @@
     {
         "bc_balance": "0.22303928",
         "bc_value": "-0.00001905",
-        "confirmations": 44422,
+        "confirmations": 49709,
         "date": "2022-09-28 22:47",
         "fee": "0.00001905",
         "fee_sat": 1905,
@@ -212,7 +212,7 @@
     {
         "bc_balance": "0.18462457",
         "bc_value": "-0.03841471",
-        "confirmations": 44420,
+        "confirmations": 49707,
         "date": "2022-09-28 23:12",
         "fee": "0.00000284",
         "fee_sat": 284,
@@ -227,7 +227,7 @@
     {
         "bc_balance": "0.15901716",
         "bc_value": "-0.02560741",
-        "confirmations": 44419,
+        "confirmations": 49706,
         "date": "2022-09-28 23:13",
         "fee": "0.00000288",
         "fee_sat": 288,
@@ -242,7 +242,7 @@
     {
         "bc_balance": "0.14365143",
         "bc_value": "-0.01536573",
-        "confirmations": 44419,
+        "confirmations": 49706,
         "date": "2022-09-28 23:13",
         "fee": "0.00000284",
         "fee_sat": 284,
@@ -257,7 +257,7 @@
     {
         "bc_balance": "0.1282857",
         "bc_value": "-0.01536573",
-        "confirmations": 44419,
+        "confirmations": 49706,
         "date": "2022-09-28 23:13",
         "fee": "0.00000284",
         "fee_sat": 284,
@@ -272,7 +272,7 @@
     {
         "bc_balance": "0.12060142",
         "bc_value": "-0.00768428",
-        "confirmations": 44419,
+        "confirmations": 49706,
         "date": "2022-09-28 23:13",
         "fee": "0.00000284",
         "fee_sat": 284,
@@ -287,7 +287,7 @@
     {
         "bc_balance": "0.1128242",
         "bc_value": "-0.00777722",
-        "confirmations": 44419,
+        "confirmations": 49706,
         "date": "2022-09-28 23:13",
         "fee": "0.00000282",
         "fee_sat": 282,
@@ -302,7 +302,7 @@
     {
         "bc_balance": "0.10033",
         "bc_value": "-0.0124942",
-        "confirmations": 40955,
+        "confirmations": 46242,
         "date": "2022-10-21 01:01",
         "fee": "0.00000987",
         "fee_sat": 987,
@@ -317,7 +317,7 @@
     {
         "bc_balance": "0.22171289",
         "bc_value": "0.12138289",
-        "confirmations": 40027,
+        "confirmations": 45314,
         "date": "2022-10-27 12:00",
         "fee": null,
         "fee_sat": null,
@@ -332,7 +332,7 @@
     {
         "bc_balance": "0.22169313",
         "bc_value": "-0.00001976",
-        "confirmations": 40022,
+        "confirmations": 45309,
         "date": "2022-10-27 12:59",
         "fee": "0.00001976",
         "fee_sat": 1976,
@@ -347,7 +347,7 @@
     {
         "bc_balance": "0.185187",
         "bc_value": "-0.03650613",
-        "confirmations": 40019,
+        "confirmations": 45306,
         "date": "2022-10-27 14:02",
         "fee": "0.00001576",
         "fee_sat": 1576,
@@ -362,7 +362,7 @@
     {
         "bc_balance": "0.16084609",
         "bc_value": "-0.02434091",
-        "confirmations": 40019,
+        "confirmations": 45306,
         "date": "2022-10-27 14:02",
         "fee": "0.00001598",
         "fee_sat": 1598,
@@ -377,7 +377,7 @@
     {
         "bc_balance": "0.14623538",
         "bc_value": "-0.01461071",
-        "confirmations": 40019,
+        "confirmations": 45306,
         "date": "2022-10-27 14:02",
         "fee": "0.00001576",
         "fee_sat": 1576,
@@ -392,7 +392,7 @@
     {
         "bc_balance": "0.13162467",
         "bc_value": "-0.01461071",
-        "confirmations": 40019,
+        "confirmations": 45306,
         "date": "2022-10-27 14:02",
         "fee": "0.00001576",
         "fee_sat": 1576,
@@ -407,7 +407,7 @@
     {
         "bc_balance": "0.12431136",
         "bc_value": "-0.00731331",
-        "confirmations": 40019,
+        "confirmations": 45306,
         "date": "2022-10-27 14:02",
         "fee": "0.00001576",
         "fee_sat": 1576,
@@ -422,7 +422,7 @@
     {
         "bc_balance": "0.116897",
         "bc_value": "-0.00741436",
-        "confirmations": 40019,
+        "confirmations": 45306,
         "date": "2022-10-27 14:02",
         "fee": "0.00001565",
         "fee_sat": 1565,
@@ -437,7 +437,7 @@
     {
         "bc_balance": "0.26659603",
         "bc_value": "0.14969903",
-        "confirmations": 37117,
+        "confirmations": 42404,
         "date": "2022-11-16 12:44",
         "fee": null,
         "fee_sat": null,
@@ -452,7 +452,7 @@
     {
         "bc_balance": "0.26659265",
         "bc_value": "-0.00000338",
-        "confirmations": 35577,
+        "confirmations": 40864,
         "date": "2022-11-28 00:07",
         "fee": "0.00000338",
         "fee_sat": 338,
@@ -467,7 +467,7 @@
     {
         "bc_balance": "0.22097742",
         "bc_value": "-0.04561523",
-        "confirmations": 35570,
+        "confirmations": 40857,
         "date": "2022-11-28 02:01",
         "fee": "0.00003479",
         "fee_sat": 3479,
@@ -482,7 +482,7 @@
     {
         "bc_balance": "0.19010296",
         "bc_value": "-0.03087446",
-        "confirmations": 35531,
+        "confirmations": 40818,
         "date": "2022-11-28 09:39",
         "fee": "0.00000274",
         "fee_sat": 274,
@@ -497,7 +497,7 @@
     {
         "bc_balance": "0.171578",
         "bc_value": "-0.01852496",
-        "confirmations": 35531,
+        "confirmations": 40818,
         "date": "2022-11-28 09:39",
         "fee": "0.0000027",
         "fee_sat": 270,
@@ -512,7 +512,7 @@
     {
         "bc_balance": "0.15305304",
         "bc_value": "-0.01852496",
-        "confirmations": 35531,
+        "confirmations": 40818,
         "date": "2022-11-28 09:39",
         "fee": "0.0000027",
         "fee_sat": 270,
@@ -527,7 +527,7 @@
     {
         "bc_balance": "0.14378979",
         "bc_value": "-0.00926325",
-        "confirmations": 35531,
+        "confirmations": 40818,
         "date": "2022-11-28 09:39",
         "fee": "0.0000027",
         "fee_sat": 270,
@@ -542,7 +542,7 @@
     {
         "bc_balance": "0.13439373",
         "bc_value": "-0.00939606",
-        "confirmations": 35531,
+        "confirmations": 40818,
         "date": "2022-11-28 09:39",
         "fee": "0.00000268",
         "fee_sat": 268,
@@ -557,7 +557,7 @@
     {
         "bc_balance": "0.10611459",
         "bc_value": "-0.02827914",
-        "confirmations": 33155,
+        "confirmations": 38442,
         "date": "2022-12-14 14:36",
         "fee": "0.00002242",
         "fee_sat": 2242,
@@ -572,7 +572,7 @@
     {
         "bc_balance": "0.07820652",
         "bc_value": "-0.02790807",
-        "confirmations": 33111,
+        "confirmations": 38398,
         "date": "2022-12-14 20:55",
         "fee": "0.00000142",
         "fee_sat": 142,
@@ -587,7 +587,7 @@
     {
         "bc_balance": "0.02075157",
         "bc_value": "-0.05745495",
-        "confirmations": 32937,
+        "confirmations": 38224,
         "date": "2022-12-16 02:22",
         "fee": "0.00002371",
         "fee_sat": 2371,
@@ -602,7 +602,7 @@
     {
         "bc_balance": "0.17265624",
         "bc_value": "0.15190467",
-        "confirmations": 32390,
+        "confirmations": 37677,
         "date": "2022-12-20 02:15",
         "fee": null,
         "fee_sat": null,
@@ -617,7 +617,7 @@
     {
         "bc_balance": "0.17265286",
         "bc_value": "-0.00000338",
-        "confirmations": 32390,
+        "confirmations": 37677,
         "date": "2022-12-20 02:15",
         "fee": "0.00000338",
         "fee_sat": 338,
@@ -632,7 +632,7 @@
     {
         "bc_balance": "0.11194296",
         "bc_value": "-0.0607099",
-        "confirmations": 32390,
+        "confirmations": 37677,
         "date": "2022-12-20 02:15",
         "fee": "0.0000027",
         "fee_sat": 270,
@@ -647,7 +647,7 @@
     {
         "bc_balance": "0.05230715",
         "bc_value": "-0.05963581",
-        "confirmations": 31838,
+        "confirmations": 37125,
         "date": "2022-12-24 03:22",
         "fee": "0.00000284",
         "fee_sat": 284,
@@ -662,7 +662,7 @@
     {
         "bc_balance": "1.25730064",
         "bc_value": "1.20499349",
-        "confirmations": 30927,
+        "confirmations": 36214,
         "date": "2022-12-30 22:48",
         "fee": null,
         "fee_sat": null,
@@ -677,7 +677,7 @@
     {
         "bc_balance": "1.25729868",
         "bc_value": "-0.00000196",
-        "confirmations": 30927,
+        "confirmations": 36214,
         "date": "2022-12-30 22:48",
         "fee": "0.00000196",
         "fee_sat": 196,
@@ -692,7 +692,7 @@
     {
         "bc_balance": "1.21208211",
         "bc_value": "-0.04521657",
-        "confirmations": 30923,
+        "confirmations": 36210,
         "date": "2022-12-30 23:08",
         "fee": "0.00000156",
         "fee_sat": 156,
@@ -707,7 +707,7 @@
     {
         "bc_balance": "1.19098021",
         "bc_value": "-0.0211019",
-        "confirmations": 30923,
+        "confirmations": 36210,
         "date": "2022-12-30 23:08",
         "fee": "0.00000156",
         "fee_sat": 156,
@@ -722,7 +722,7 @@
     {
         "bc_balance": "1.16987352",
         "bc_value": "-0.02110669",
-        "confirmations": 30923,
+        "confirmations": 36210,
         "date": "2022-12-30 23:08",
         "fee": "0.00000156",
         "fee_sat": 156,
@@ -737,7 +737,7 @@
     {
         "bc_balance": "1.1593194",
         "bc_value": "-0.01055412",
-        "confirmations": 30923,
+        "confirmations": 36210,
         "date": "2022-12-30 23:08",
         "fee": "0.00000156",
         "fee_sat": 156,
@@ -752,7 +752,7 @@
     {
         "bc_balance": "1.1486151",
         "bc_value": "-0.0107043",
-        "confirmations": 30923,
+        "confirmations": 36210,
         "date": "2022-12-30 23:08",
         "fee": "0.00000155",
         "fee_sat": 155,
@@ -767,7 +767,7 @@
     {
         "bc_balance": "1.25803868",
         "bc_value": "0.10942358",
-        "confirmations": 26118,
+        "confirmations": 31405,
         "date": "2023-01-31 05:51",
         "fee": null,
         "fee_sat": null,
@@ -782,7 +782,7 @@
     {
         "bc_balance": "1.25803565",
         "bc_value": "-0.00000303",
-        "confirmations": 26113,
+        "confirmations": 31400,
         "date": "2023-01-31 07:06",
         "fee": "0.00000303",
         "fee_sat": 303,
@@ -797,7 +797,7 @@
     {
         "bc_balance": "1.22518669",
         "bc_value": "-0.03284896",
-        "confirmations": 26113,
+        "confirmations": 31400,
         "date": "2023-01-31 07:06",
         "fee": "0.00000241",
         "fee_sat": 241,
@@ -812,7 +812,7 @@
     {
         "bc_balance": "1.20327777",
         "bc_value": "-0.02190892",
-        "confirmations": 26113,
+        "confirmations": 31400,
         "date": "2023-01-31 07:06",
         "fee": "0.00000245",
         "fee_sat": 245,
@@ -827,7 +827,7 @@
     {
         "bc_balance": "1.18794083",
         "bc_value": "-0.01533694",
-        "confirmations": 26113,
+        "confirmations": 31400,
         "date": "2023-01-31 07:06",
         "fee": "0.00000241",
         "fee_sat": 241,
@@ -842,7 +842,7 @@
     {
         "bc_balance": "1.17260252",
         "bc_value": "-0.01533831",
-        "confirmations": 26113,
+        "confirmations": 31400,
         "date": "2023-01-31 07:06",
         "fee": "0.00000241",
         "fee_sat": 241,
@@ -857,7 +857,7 @@
     {
         "bc_balance": "1.16493216",
         "bc_value": "-0.00767036",
-        "confirmations": 26113,
+        "confirmations": 31400,
         "date": "2023-01-31 07:06",
         "fee": "0.00000241",
         "fee_sat": 241,
@@ -872,7 +872,7 @@
     {
         "bc_balance": "1.15715049",
         "bc_value": "-0.00778167",
-        "confirmations": 26113,
+        "confirmations": 31400,
         "date": "2023-01-31 07:06",
         "fee": "0.0000024",
         "fee_sat": 240,
@@ -887,7 +887,7 @@
     {
         "bc_balance": "1.14686142",
         "bc_value": "-0.01028907",
-        "confirmations": 25036,
+        "confirmations": 30323,
         "date": "2023-02-08 00:24",
         "fee": "0.00002002",
         "fee_sat": 2002,
@@ -902,7 +902,7 @@
     {
         "bc_balance": "1.1445499",
         "bc_value": "-0.00231152",
-        "confirmations": 24444,
+        "confirmations": 29731,
         "date": "2023-02-11 23:00",
         "fee": "0.00000568",
         "fee_sat": 568,
@@ -917,7 +917,7 @@
     {
         "bc_balance": "1.24947773",
         "bc_value": "0.10492783",
-        "confirmations": 23538,
+        "confirmations": 28825,
         "date": "2023-02-17 13:45",
         "fee": null,
         "fee_sat": null,
@@ -932,7 +932,7 @@
     {
         "bc_balance": "1.2495046",
         "bc_value": "0.00002687",
-        "confirmations": 23009,
+        "confirmations": 28296,
         "date": "2023-02-20 19:57",
         "fee": null,
         "fee_sat": null,
@@ -947,7 +947,7 @@
     {
         "bc_balance": "1.25037383",
         "bc_value": "0.00086923",
-        "confirmations": 22705,
+        "confirmations": 27992,
         "date": "2023-02-22 19:57",
         "fee": null,
         "fee_sat": null,
@@ -962,7 +962,7 @@
     {
         "bc_balance": "1.25046313",
         "bc_value": "0.0000893",
-        "confirmations": 22586,
+        "confirmations": 27873,
         "date": "2023-02-23 13:14",
         "fee": null,
         "fee_sat": null,
@@ -977,7 +977,7 @@
     {
         "bc_balance": "1.2508673",
         "bc_value": "0.00040417",
-        "confirmations": 22415,
+        "confirmations": 27702,
         "date": "2023-02-24 15:51",
         "fee": null,
         "fee_sat": null,
@@ -992,7 +992,7 @@
     {
         "bc_balance": "1.25089972",
         "bc_value": "0.00003242",
-        "confirmations": 22359,
+        "confirmations": 27646,
         "date": "2023-02-25 02:34",
         "fee": null,
         "fee_sat": null,
@@ -1007,7 +1007,7 @@
     {
         "bc_balance": "1.25506812",
         "bc_value": "0.0041684",
-        "confirmations": 22250,
+        "confirmations": 27537,
         "date": "2023-02-26 02:30",
         "fee": null,
         "fee_sat": null,
@@ -1022,7 +1022,7 @@
     {
         "bc_balance": "1.25672429",
         "bc_value": "0.00165617",
-        "confirmations": 22192,
+        "confirmations": 27479,
         "date": "2023-02-26 12:40",
         "fee": null,
         "fee_sat": null,
@@ -1037,7 +1037,7 @@
     {
         "bc_balance": "1.25671781",
         "bc_value": "-0.00000648",
-        "confirmations": 22129,
+        "confirmations": 27416,
         "date": "2023-02-26 19:47",
         "fee": "0.00000648",
         "fee_sat": 648,
@@ -1052,7 +1052,7 @@
     {
         "bc_balance": "1.22455596",
         "bc_value": "-0.03216185",
-        "confirmations": 22129,
+        "confirmations": 27416,
         "date": "2023-02-26 19:47",
         "fee": "0.00000142",
         "fee_sat": 142,
@@ -1067,7 +1067,7 @@
     {
         "bc_balance": "1.20311423",
         "bc_value": "-0.02144173",
-        "confirmations": 22129,
+        "confirmations": 27416,
         "date": "2023-02-26 19:47",
         "fee": "0.00000144",
         "fee_sat": 144,
@@ -1082,7 +1082,7 @@
     {
         "bc_balance": "1.18815974",
         "bc_value": "-0.01495449",
-        "confirmations": 22128,
+        "confirmations": 27415,
         "date": "2023-02-26 19:49",
         "fee": "0.00000142",
         "fee_sat": 142,
@@ -1097,7 +1097,7 @@
     {
         "bc_balance": "1.17320525",
         "bc_value": "-0.01495449",
-        "confirmations": 22128,
+        "confirmations": 27415,
         "date": "2023-02-26 19:49",
         "fee": "0.00000142",
         "fee_sat": 142,
@@ -1112,7 +1112,7 @@
     {
         "bc_balance": "1.1657475",
         "bc_value": "-0.00745775",
-        "confirmations": 22128,
+        "confirmations": 27415,
         "date": "2023-02-26 19:49",
         "fee": "0.00000142",
         "fee_sat": 142,
@@ -1127,7 +1127,7 @@
     {
         "bc_balance": "1.15818977",
         "bc_value": "-0.00755773",
-        "confirmations": 22125,
+        "confirmations": 27412,
         "date": "2023-02-26 20:08",
         "fee": "0.00000141",
         "fee_sat": 141,
@@ -1142,7 +1142,7 @@
     {
         "bc_balance": "1.15864101",
         "bc_value": "0.00045124",
-        "confirmations": 22108,
+        "confirmations": 27395,
         "date": "2023-02-26 22:20",
         "fee": null,
         "fee_sat": null,
@@ -1157,7 +1157,7 @@
     {
         "bc_balance": "1.15886663",
         "bc_value": "0.00022562",
-        "confirmations": 22108,
+        "confirmations": 27395,
         "date": "2023-02-26 22:20",
         "fee": null,
         "fee_sat": null,
@@ -1172,7 +1172,7 @@
     {
         "bc_balance": "1.15909225",
         "bc_value": "0.00022562",
-        "confirmations": 22108,
+        "confirmations": 27395,
         "date": "2023-02-26 22:20",
         "fee": null,
         "fee_sat": null,
@@ -1187,7 +1187,7 @@
     {
         "bc_balance": "1.10771878",
         "bc_value": "-0.05137347",
-        "confirmations": 20824,
+        "confirmations": 26111,
         "date": "2023-03-07 10:44",
         "fee": "0.00000423",
         "fee_sat": 423,
@@ -1202,7 +1202,7 @@
     {
         "bc_balance": "1.10324147",
         "bc_value": "-0.00447731",
-        "confirmations": 20823,
+        "confirmations": 26110,
         "date": "2023-03-07 10:50",
         "fee": "0.00000423",
         "fee_sat": 423,
@@ -1217,7 +1217,7 @@
     {
         "bc_balance": "1.08312662",
         "bc_value": "-0.02011485",
-        "confirmations": 20811,
+        "confirmations": 26098,
         "date": "2023-03-07 12:44",
         "fee": "0.00000423",
         "fee_sat": 423,
@@ -1232,7 +1232,7 @@
     {
         "bc_balance": "1.07924689",
         "bc_value": "-0.00387973",
-        "confirmations": 19750,
+        "confirmations": 25037,
         "date": "2023-03-14 15:55",
         "fee": "0.00004089",
         "fee_sat": 4089,
@@ -1247,7 +1247,7 @@
     {
         "bc_balance": "1.05616129",
         "bc_value": "-0.0230856",
-        "confirmations": 19750,
+        "confirmations": 25037,
         "date": "2023-03-14 15:55",
         "fee": "0.00002933",
         "fee_sat": 2933,
@@ -1262,7 +1262,7 @@
     {
         "bc_balance": "1.14506204",
         "bc_value": "0.08890075",
-        "confirmations": 18247,
+        "confirmations": 23534,
         "date": "2023-03-24 12:39",
         "fee": null,
         "fee_sat": null,
@@ -1277,7 +1277,7 @@
     {
         "bc_balance": "1.13606464",
         "bc_value": "-0.0089974",
-        "confirmations": 17902,
+        "confirmations": 23189,
         "date": "2023-03-26 21:07",
         "fee": "0.00001195",
         "fee_sat": 1195,
@@ -1292,7 +1292,7 @@
     {
         "bc_balance": "1.13604214",
         "bc_value": "-0.0000225",
-        "confirmations": 17500,
+        "confirmations": 22787,
         "date": "2023-03-29 16:31",
         "fee": "0.0000225",
         "fee_sat": 2250,
@@ -1307,7 +1307,7 @@
     {
         "bc_balance": "1.10958202",
         "bc_value": "-0.02646012",
-        "confirmations": 17499,
+        "confirmations": 22786,
         "date": "2023-03-29 16:37",
         "fee": "0.0000071",
         "fee_sat": 710,
@@ -1322,7 +1322,7 @@
     {
         "bc_balance": "1.09193498",
         "bc_value": "-0.01764704",
-        "confirmations": 17499,
+        "confirmations": 22786,
         "date": "2023-03-29 16:37",
         "fee": "0.0000072",
         "fee_sat": 720,
@@ -1337,7 +1337,7 @@
     {
         "bc_balance": "1.07957999",
         "bc_value": "-0.01235499",
-        "confirmations": 17493,
+        "confirmations": 22780,
         "date": "2023-03-29 17:38",
         "fee": "0.0000071",
         "fee_sat": 710,
@@ -1352,7 +1352,7 @@
     {
         "bc_balance": "1.06723412",
         "bc_value": "-0.01234587",
-        "confirmations": 17493,
+        "confirmations": 22780,
         "date": "2023-03-29 17:38",
         "fee": "0.0000071",
         "fee_sat": 710,
@@ -1367,7 +1367,7 @@
     {
         "bc_balance": "1.0610445",
         "bc_value": "-0.00618962",
-        "confirmations": 17493,
+        "confirmations": 22780,
         "date": "2023-03-29 17:38",
         "fee": "0.0000071",
         "fee_sat": 710,
@@ -1382,7 +1382,7 @@
     {
         "bc_balance": "1.05478128",
         "bc_value": "-0.00626322",
-        "confirmations": 17493,
+        "confirmations": 22780,
         "date": "2023-03-29 17:38",
         "fee": "0.00000705",
         "fee_sat": 705,
@@ -1397,7 +1397,7 @@
     {
         "bc_balance": "1.04649983",
         "bc_value": "-0.00828145",
-        "confirmations": 17000,
+        "confirmations": 22287,
         "date": "2023-04-02 02:25",
         "fee": "0.00002044",
         "fee_sat": 2044,
@@ -1412,7 +1412,7 @@
     {
         "bc_balance": "1.13437963",
         "bc_value": "0.0878798",
-        "confirmations": 14248,
+        "confirmations": 19535,
         "date": "2023-04-20 23:18",
         "fee": null,
         "fee_sat": null,
@@ -1427,7 +1427,7 @@
     {
         "bc_balance": "1.13434759",
         "bc_value": "-0.00003204",
-        "confirmations": 13254,
+        "confirmations": 18541,
         "date": "2023-04-28 03:20",
         "fee": "0.00003204",
         "fee_sat": 3204,
@@ -1442,7 +1442,7 @@
     {
         "bc_balance": "1.10890709",
         "bc_value": "-0.0254405",
-        "confirmations": 13254,
+        "confirmations": 18541,
         "date": "2023-04-28 03:20",
         "fee": "0.00002556",
         "fee_sat": 2556,
@@ -1457,7 +1457,7 @@
     {
         "bc_balance": "1.09193842",
         "bc_value": "-0.01696867",
-        "confirmations": 13254,
+        "confirmations": 18541,
         "date": "2023-04-28 03:20",
         "fee": "0.00002538",
         "fee_sat": 2538,
@@ -1472,7 +1472,7 @@
     {
         "bc_balance": "1.08004389",
         "bc_value": "-0.01189453",
-        "confirmations": 13254,
+        "confirmations": 18541,
         "date": "2023-04-28 03:20",
         "fee": "0.00002258",
         "fee_sat": 2258,
@@ -1487,7 +1487,7 @@
     {
         "bc_balance": "1.06814936",
         "bc_value": "-0.01189453",
-        "confirmations": 13254,
+        "confirmations": 18541,
         "date": "2023-04-28 03:20",
         "fee": "0.00002258",
         "fee_sat": 2258,
@@ -1502,7 +1502,7 @@
     {
         "bc_balance": "1.06218996",
         "bc_value": "-0.0059594",
-        "confirmations": 13254,
+        "confirmations": 18541,
         "date": "2023-04-28 03:20",
         "fee": "0.00002343",
         "fee_sat": 2343,
@@ -1517,7 +1517,7 @@
     {
         "bc_balance": "1.05609374",
         "bc_value": "-0.00609622",
-        "confirmations": 13254,
+        "confirmations": 18541,
         "date": "2023-04-28 03:20",
         "fee": "0.00002594",
         "fee_sat": 2594,
@@ -1532,7 +1532,7 @@
     {
         "bc_balance": "1.1495299",
         "bc_value": "0.09343616",
-        "confirmations": 8839,
+        "confirmations": 14126,
         "date": "2023-05-28 01:31",
         "fee": null,
         "fee_sat": null,
@@ -1547,7 +1547,7 @@
     {
         "bc_balance": "1.14949644",
         "bc_value": "-0.00003346",
-        "confirmations": 8839,
+        "confirmations": 14126,
         "date": "2023-05-28 01:31",
         "fee": "0.00003346",
         "fee_sat": 3346,
@@ -1562,7 +1562,7 @@
     {
         "bc_balance": "1.12177743",
         "bc_value": "-0.02771901",
-        "confirmations": 8818,
+        "confirmations": 14105,
         "date": "2023-05-28 05:20",
         "fee": "0.0000372",
         "fee_sat": 3720,
@@ -1577,7 +1577,7 @@
     {
         "bc_balance": "1.1032804",
         "bc_value": "-0.01849703",
-        "confirmations": 8818,
+        "confirmations": 14105,
         "date": "2023-05-28 05:20",
         "fee": "0.00003666",
         "fee_sat": 3666,
@@ -1592,7 +1592,7 @@
     {
         "bc_balance": "1.08847417",
         "bc_value": "-0.01480623",
-        "confirmations": 8818,
+        "confirmations": 14105,
         "date": "2023-05-28 05:20",
         "fee": "0.00003692",
         "fee_sat": 3692,
@@ -1607,7 +1607,7 @@
     {
         "bc_balance": "1.07366794",
         "bc_value": "-0.01480623",
-        "confirmations": 8818,
+        "confirmations": 14105,
         "date": "2023-05-28 05:20",
         "fee": "0.00003692",
         "fee_sat": 3692,
@@ -1622,7 +1622,7 @@
     {
         "bc_balance": "1.06717213",
         "bc_value": "-0.00649581",
-        "confirmations": 8818,
+        "confirmations": 14105,
         "date": "2023-05-28 05:20",
         "fee": "0.00003692",
         "fee_sat": 3692,
@@ -1637,7 +1637,7 @@
     {
         "bc_balance": "1.06197327",
         "bc_value": "-0.00519886",
-        "confirmations": 8818,
+        "confirmations": 14105,
         "date": "2023-05-28 05:20",
         "fee": "0.00003666",
         "fee_sat": 3666,
@@ -1652,7 +1652,7 @@
     {
         "bc_balance": "1.05553558",
         "bc_value": "-0.00643769",
-        "confirmations": 8665,
+        "confirmations": 13952,
         "date": "2023-05-29 04:13",
         "fee": "0.00007276",
         "fee_sat": 7276,
@@ -1667,7 +1667,7 @@
     {
         "bc_balance": "0.96205792",
         "bc_value": "-0.09347766",
-        "confirmations": 8662,
+        "confirmations": 13949,
         "date": "2023-05-29 04:31",
         "fee": "0.0000705",
         "fee_sat": 7050,
@@ -1682,7 +1682,7 @@
     {
         "bc_balance": "0.95201492",
         "bc_value": "-0.010043",
-        "confirmations": 7492,
+        "confirmations": 12779,
         "date": "2023-06-06 04:14",
         "fee": "0.000043",
         "fee_sat": 4300,
@@ -1697,7 +1697,7 @@
     {
         "bc_balance": "0.85197826",
         "bc_value": "-0.10003666",
-        "confirmations": 7484,
+        "confirmations": 12771,
         "date": "2023-06-06 05:01",
         "fee": "0.00003666",
         "fee_sat": 3666,
@@ -1712,7 +1712,7 @@
     {
         "bc_balance": "0.84273309",
         "bc_value": "-0.00924517",
-        "confirmations": 7349,
+        "confirmations": 12636,
         "date": "2023-06-07 03:21",
         "fee": "0.00012873",
         "fee_sat": 12873,
@@ -1727,7 +1727,7 @@
     {
         "bc_balance": "0.7834294",
         "bc_value": "-0.05930369",
-        "confirmations": 6797,
+        "confirmations": 12084,
         "date": "2023-06-10 19:46",
         "fee": "0.00001692",
         "fee_sat": 1692,
@@ -1742,7 +1742,7 @@
     {
         "bc_balance": "0.77341445",
         "bc_value": "-0.01001495",
-        "confirmations": 6142,
+        "confirmations": 11429,
         "date": "2023-06-15 04:44",
         "fee": "0.00001495",
         "fee_sat": 1495,
@@ -1757,7 +1757,7 @@
     {
         "bc_balance": "0.85519938",
         "bc_value": "0.08178493",
-        "confirmations": 4382,
+        "confirmations": 9669,
         "date": "2023-06-27 15:53",
         "fee": null,
         "fee_sat": null,
@@ -1772,7 +1772,7 @@
     {
         "bc_balance": "0.85517677",
         "bc_value": "-0.00002261",
-        "confirmations": 4358,
+        "confirmations": 9645,
         "date": "2023-06-27 18:42",
         "fee": "0.00002261",
         "fee_sat": 2261,
@@ -1787,7 +1787,7 @@
     {
         "bc_balance": "0.83063184",
         "bc_value": "-0.02454493",
-        "confirmations": 4358,
+        "confirmations": 9645,
         "date": "2023-06-27 18:42",
         "fee": "0.00001791",
         "fee_sat": 1791,
@@ -1802,7 +1802,7 @@
     {
         "bc_balance": "0.81428266",
         "bc_value": "-0.01634918",
-        "confirmations": 4358,
+        "confirmations": 9645,
         "date": "2023-06-27 18:42",
         "fee": "0.00001918",
         "fee_sat": 1918,
@@ -1817,7 +1817,7 @@
     {
         "bc_balance": "0.80121207",
         "bc_value": "-0.01307059",
-        "confirmations": 4358,
+        "confirmations": 9645,
         "date": "2023-06-27 18:42",
         "fee": "0.00001918",
         "fee_sat": 1918,
@@ -1832,7 +1832,7 @@
     {
         "bc_balance": "0.78813501",
         "bc_value": "-0.01307706",
-        "confirmations": 4358,
+        "confirmations": 9645,
         "date": "2023-06-27 18:42",
         "fee": "0.00001706",
         "fee_sat": 1706,
@@ -1847,7 +1847,7 @@
     {
         "bc_balance": "0.7824018",
         "bc_value": "-0.00573321",
-        "confirmations": 4358,
+        "confirmations": 9645,
         "date": "2023-06-27 18:42",
         "fee": "0.00001791",
         "fee_sat": 1791,
@@ -1862,7 +1862,7 @@
     {
         "bc_balance": "0.77657448",
         "bc_value": "-0.00582732",
-        "confirmations": 4358,
+        "confirmations": 9645,
         "date": "2023-06-27 18:42",
         "fee": "0.00001791",
         "fee_sat": 1791,
@@ -1877,7 +1877,7 @@
     {
         "bc_balance": "0.77658048",
         "bc_value": "0.000006",
-        "confirmations": 3583,
+        "confirmations": 8870,
         "date": "2023-07-03 04:56",
         "fee": null,
         "fee_sat": null,
@@ -1892,7 +1892,7 @@
     {
         "bc_balance": "0.76505601",
         "bc_value": "-0.01152447",
-        "confirmations": 2345,
+        "confirmations": 7632,
         "date": "2023-07-11 03:29",
         "fee": "0.00000818",
         "fee_sat": 818,
@@ -1907,7 +1907,7 @@
     {
         "bc_balance": "0.75775114",
         "bc_value": "-0.00730487",
-        "confirmations": 1398,
+        "confirmations": 6685,
         "date": "2023-07-18 00:36",
         "fee": "0.00001128",
         "fee_sat": 1128,
@@ -1922,7 +1922,7 @@
     {
         "bc_balance": "0.8425919",
         "bc_value": "0.08484076",
-        "confirmations": 117,
+        "confirmations": 5404,
         "date": "2023-07-27 03:20",
         "fee": null,
         "fee_sat": null,
@@ -1937,7 +1937,7 @@
     {
         "bc_balance": "0.84257222",
         "bc_value": "-0.00001968",
-        "confirmations": 117,
+        "confirmations": 5404,
         "date": "2023-07-27 03:20",
         "fee": "0.00001968",
         "fee_sat": 1968,
@@ -1952,7 +1952,7 @@
     {
         "bc_balance": "0.81684472",
         "bc_value": "-0.0257275",
-        "confirmations": 2,
+        "confirmations": 5289,
         "date": "2023-07-27 23:30",
         "fee": "0.00001128",
         "fee_sat": 1128,
@@ -1967,7 +1967,7 @@
     {
         "bc_balance": "0.79968901",
         "bc_value": "-0.01715571",
-        "confirmations": 2,
+        "confirmations": 5289,
         "date": "2023-07-27 23:30",
         "fee": "0.00001043",
         "fee_sat": 1043,
@@ -1982,7 +1982,7 @@
     {
         "bc_balance": "0.78596165",
         "bc_value": "-0.01372736",
-        "confirmations": 2,
+        "confirmations": 5289,
         "date": "2023-07-27 23:30",
         "fee": "0.00001114",
         "fee_sat": 1114,
@@ -1997,7 +1997,7 @@
     {
         "bc_balance": "0.77223272",
         "bc_value": "-0.01372893",
-        "confirmations": 2,
+        "confirmations": 5289,
         "date": "2023-07-27 23:30",
         "fee": "0.00001114",
         "fee_sat": 1114,
@@ -2012,7 +2012,7 @@
     {
         "bc_balance": "0.76621991",
         "bc_value": "-0.00601281",
-        "confirmations": 2,
+        "confirmations": 5289,
         "date": "2023-07-27 23:30",
         "fee": "0.00001128",
         "fee_sat": 1128,
@@ -2027,7 +2027,7 @@
     {
         "bc_balance": "0.76011737",
         "bc_value": "-0.00610254",
-        "confirmations": 2,
+        "confirmations": 5289,
         "date": "2023-07-27 23:30",
         "fee": "0.00001128",
         "fee_sat": 1128,
@@ -2038,5 +2038,245 @@
         "timestamp": 1690493437,
         "txid": "22ea95f2331a89268035ae4dd7809f3dab467eeefb5a0142c4a5638319b4864b",
         "txpos_in_block": 1681
+    },
+    {
+        "bc_balance": "0.75594822",
+        "bc_value": "-0.00416915",
+        "confirmations": 2940,
+        "date": "2023-08-13 01:01",
+        "fee": "0.00001128",
+        "fee_sat": 1128,
+        "height": 802884,
+        "incoming": false,
+        "label": "Staff Equipment: Import Tariff on Trezor Model T Bitcoin Wallet (Venezuela)",
+        "monotonic_timestamp": 1691881302,
+        "timestamp": 1691881302,
+        "txid": "3462bf2ecceda2729a41601d1821c9e3699e62bfc427a6f3f87e1e000f83a39a",
+        "txpos_in_block": 1692
+    },
+    {
+        "bc_balance": "0.75566517",
+        "bc_value": "-0.00028305",
+        "confirmations": 2925,
+        "date": "2023-08-13 04:07",
+        "fee": "0.00001128",
+        "fee_sat": 1128,
+        "height": 802899,
+        "incoming": false,
+        "label": "Guest Artist: \"Training Day\" (Ecuador)",
+        "monotonic_timestamp": 1691892464,
+        "timestamp": 1691892464,
+        "txid": "108cfebe4db1a74017b5be9b5a052700e43e6640a6f02657d43fa0dc09312f12",
+        "txpos_in_block": 2644
+    },
+    {
+        "bc_balance": "0.75531416",
+        "bc_value": "-0.00035101",
+        "confirmations": 2925,
+        "date": "2023-08-13 04:07",
+        "fee": "0.00001128",
+        "fee_sat": 1128,
+        "height": 802899,
+        "incoming": false,
+        "label": "Guest Artist: \"Winner\" (Brazil)",
+        "monotonic_timestamp": 1691892464,
+        "timestamp": 1691892464,
+        "txid": "c2fd318773104b04c6e340021e7438c3c8c3314e17f2e8d4f2dfc3a280e44410",
+        "txpos_in_block": 2645
+    },
+    {
+        "bc_balance": "0.75534853",
+        "bc_value": "0.00003437",
+        "confirmations": 1841,
+        "date": "2023-08-20 03:55",
+        "fee": null,
+        "fee_sat": null,
+        "height": 803983,
+        "incoming": true,
+        "label": "DangleBat Membership Program",
+        "monotonic_timestamp": 1692496518,
+        "timestamp": 1692496518,
+        "txid": "5662e42dc0f9222c5f28f0472b7b0930d91a8873fb727fc25359acd3ce9ad87a",
+        "txpos_in_block": 4436
+    },
+    {
+        "bc_balance": "0.75542374",
+        "bc_value": "0.00007521",
+        "confirmations": 1837,
+        "date": "2023-08-20 04:18",
+        "fee": null,
+        "fee_sat": null,
+        "height": 803987,
+        "incoming": true,
+        "label": "DangleBat Membership Program",
+        "monotonic_timestamp": 1692497895,
+        "timestamp": 1692497895,
+        "txid": "1f8221ca26a5820242c53430df184240059da00bd7bf2dd9d4ce5951c14b84e4",
+        "txpos_in_block": 3429
+    },
+    {
+        "bc_balance": "0.7556118",
+        "bc_value": "0.00018806",
+        "confirmations": 1837,
+        "date": "2023-08-20 04:18",
+        "fee": null,
+        "fee_sat": null,
+        "height": 803987,
+        "incoming": true,
+        "label": "DangleBat Membership Program",
+        "monotonic_timestamp": 1692497895,
+        "timestamp": 1692497895,
+        "txid": "840c0deb0747d4068a2970c566b639651e6131fa5fd54093855f37a612158ffd",
+        "txpos_in_block": 4633
+    },
+    {
+        "bc_balance": "0.75645924",
+        "bc_value": "0.00084744",
+        "confirmations": 720,
+        "date": "2023-08-28 01:06",
+        "fee": null,
+        "fee_sat": null,
+        "height": 805104,
+        "incoming": true,
+        "label": "DangleBat Membership Program",
+        "monotonic_timestamp": 1693177586,
+        "timestamp": 1693177586,
+        "txid": "f5b9dfc75ac856f9dcd3e2752a9682ba6fefff33845a25e6d7437b4b706e1ce0",
+        "txpos_in_block": 4156
+    },
+    {
+        "bc_balance": "0.84689775",
+        "bc_value": "0.09043851",
+        "confirmations": 445,
+        "date": "2023-08-30 01:07",
+        "fee": null,
+        "fee_sat": null,
+        "height": 805379,
+        "incoming": true,
+        "label": "Monthly Endowment: $2,500 (14 of 120)",
+        "monotonic_timestamp": 1693350476,
+        "timestamp": 1693350476,
+        "txid": "d0f54a331fe7cd961fae318c3a3b771c99360e0613696ee2ea940e3841054e13",
+        "txpos_in_block": 882
+    },
+    {
+        "bc_balance": "0.8468496",
+        "bc_value": "-0.00004815",
+        "confirmations": 442,
+        "date": "2023-08-30 02:01",
+        "fee": "0.00004815",
+        "fee_sat": 4815,
+        "height": 805382,
+        "incoming": false,
+        "label": "Funds Consolidation to Treasury",
+        "monotonic_timestamp": 1693353692,
+        "timestamp": 1693353692,
+        "txid": "af30113869a5a64261808c655ee8f25fe34e543302456a9b371b3eb0285f90b3",
+        "txpos_in_block": 2884
+    },
+    {
+        "bc_balance": "0.81964033",
+        "bc_value": "-0.02720927",
+        "confirmations": 442,
+        "date": "2023-08-30 02:01",
+        "fee": "0.00001509",
+        "fee_sat": 1509,
+        "height": 805382,
+        "incoming": false,
+        "label": "Staff Artist: $750 Monthly Living Expenses (El Salvador)",
+        "monotonic_timestamp": 1693353692,
+        "timestamp": 1693353692,
+        "txid": "d28cc146ba6d106690503f00a68223dc42f25ab03ccfde06a5a7b571fdca4c8d",
+        "txpos_in_block": 2905
+    },
+    {
+        "bc_balance": "0.80149877",
+        "bc_value": "-0.01814156",
+        "confirmations": 442,
+        "date": "2023-08-30 02:01",
+        "fee": "0.00001509",
+        "fee_sat": 1509,
+        "height": 805382,
+        "incoming": false,
+        "label": "Staff Artist: $500 Monthly Living Expenses (Brazil)",
+        "monotonic_timestamp": 1693353692,
+        "timestamp": 1693353692,
+        "txid": "2e45d717d2843db2f364131a7f83fa6e1e54daf1fd0abbbc5aabd6f0a1da012a",
+        "txpos_in_block": 2906
+    },
+    {
+        "bc_balance": "0.78698433",
+        "bc_value": "-0.01451444",
+        "confirmations": 442,
+        "date": "2023-08-30 02:01",
+        "fee": "0.00001519",
+        "fee_sat": 1519,
+        "height": 805382,
+        "incoming": false,
+        "label": "Staff Artist: $400 Monthly Living Expenses (Dominican Republic)",
+        "monotonic_timestamp": 1693353692,
+        "timestamp": 1693353692,
+        "txid": "0327f83abf5cb25d2bb60856d3d6011afd02bfcb558944fdefd2dd8f15e93d5d",
+        "txpos_in_block": 2909
+    },
+    {
+        "bc_balance": "0.77246999",
+        "bc_value": "-0.01451434",
+        "confirmations": 442,
+        "date": "2023-08-30 02:01",
+        "fee": "0.00001509",
+        "fee_sat": 1509,
+        "height": 805382,
+        "incoming": false,
+        "label": "Staff Artist: $400 Monthly Living Expenses (Mexico)",
+        "monotonic_timestamp": 1693353692,
+        "timestamp": 1693353692,
+        "txid": "557304e93a97ec9cd73e0047b2d25ef28628ffe60491b1b13b39a55489361717",
+        "txpos_in_block": 2910
+    },
+    {
+        "bc_balance": "0.76611138",
+        "bc_value": "-0.00635861",
+        "confirmations": 442,
+        "date": "2023-08-30 02:01",
+        "fee": "0.00001519",
+        "fee_sat": 1519,
+        "height": 805382,
+        "incoming": false,
+        "label": "Staff Artist: $175 Monthly Living Expenses (Mexico)",
+        "monotonic_timestamp": 1693353692,
+        "timestamp": 1693353692,
+        "txid": "f5a74147d5b60aa63ebcae7d13ee78aba8294e9bde77e8a63a71e6fb151af601",
+        "txpos_in_block": 2911
+    },
+    {
+        "bc_balance": "0.75976063",
+        "bc_value": "-0.00635075",
+        "confirmations": 442,
+        "date": "2023-08-30 02:01",
+        "fee": "0.00001509",
+        "fee_sat": 1509,
+        "height": 805382,
+        "incoming": false,
+        "label": "Staff Artist: $175 Monthly Living Expenses (Venezuela)",
+        "monotonic_timestamp": 1693353692,
+        "timestamp": 1693353692,
+        "txid": "b167009ca982ddb8d153ed4ed25e4f8f3c1bb72d217293916065889effccff38",
+        "txpos_in_block": 2912
+    },
+    {
+        "bc_balance": "0.74422509",
+        "bc_value": "-0.01553554",
+        "confirmations": 5,
+        "date": "2023-09-02 05:06",
+        "fee": "0.0000169",
+        "fee_sat": 1690,
+        "height": 805819,
+        "incoming": false,
+        "label": "Staff Artist: $400 Wellbeing Bonus (El Salvador)",
+        "monotonic_timestamp": 1693623960,
+        "timestamp": 1693623960,
+        "txid": "8ab654a9bebfd4b8699cc04261180e66fc0c59f1ac1260e68ad72c341656614e",
+        "txpos_in_block": 1404
     }
 ]

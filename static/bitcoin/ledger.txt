@@ -9,7 +9,7 @@ zpub6qbtXZttGc816fRMz4W7Q67Ko3aNJrdf6LSnPAPjjhJKwobNHff7uEBaEWVT5rs31Pj5eBohtUEp
 Account labels are available at:
 https://danglebat.com/bitcoin/labels.json
 
-As of 2023-07-27 our balance is 0.76011737 BTC.
+As of 2023-09-02 our balance is 0.74422509 BTC.
 
 
 
@@ -176,4 +176,20 @@ Date         Transaction Description                                            
 2023-07-27   Staff Artist: $400 Monthly Living Expenses (Mexico)                                         -0.01372893                0.77223272
 2023-07-27   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00601281                0.76621991
 2023-07-27   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00610254                0.76011737
+2023-08-13   Staff Equipment: Import Tariff on Trezor Model T Bitcoin Wallet (Venezuela)                 -0.00416915                0.75594822
+2023-08-13   Guest Artist: "Training Day" (Ecuador)                                                      -0.00028305                0.75566517
+2023-08-13   Guest Artist: "Winner" (Brazil)                                                             -0.00035101                0.75531416
+2023-08-20   DangleBat Membership Program                                                                              0.00003437   0.75534853
+2023-08-20   DangleBat Membership Program                                                                              0.00007521   0.75542374
+2023-08-20   DangleBat Membership Program                                                                              0.00018806   0.7556118
+2023-08-28   DangleBat Membership Program                                                                              0.00084744   0.75645924
+2023-08-30   Monthly Endowment: $2,500 (14 of 120)                                                                     0.09043851   0.84689775
+2023-08-30   Funds Consolidation to Treasury                                                             -0.00004815                0.8468496
+2023-08-30   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.02720927                0.81964033
+2023-08-30   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.01814156                0.80149877
+2023-08-30   Staff Artist: $400 Monthly Living Expenses (Dominican Republic)                             -0.01451444                0.78698433
+2023-08-30   Staff Artist: $400 Monthly Living Expenses (Mexico)                                         -0.01451434                0.77246999
+2023-08-30   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00635861                0.76611138
+2023-08-30   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00635075                0.75976063
+2023-09-02   Staff Artist: $400 Wellbeing Bonus (El Salvador)                                            -0.01553554                0.74422509
 ----------------------------------------------------------------------------------------------------------------------------------------------
