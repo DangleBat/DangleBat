@@ -9,7 +9,7 @@ zpub6qbtXZttGc816fRMz4W7Q67Ko3aNJrdf6LSnPAPjjhJKwobNHff7uEBaEWVT5rs31Pj5eBohtUEp
 Account labels are available at:
 https://danglebat.com/bitcoin/labels.json
 
-As of 2023-09-02 our balance is 0.74422509 BTC.
+As of 2023-09-07 our balance is 0.78177037 BTC.
 
 
 
@@ -102,13 +102,13 @@ Date         Transaction Description                                            
 2023-02-08   Staff Equipment: Trezor Model T Bitcoin Wallet (Mexico)                                     -0.01028907                1.14686142
 2023-02-11   Staff Equipment: Import Tariff on Trezor Model T Bitcoin Wallet (Mexico)                    -0.00231152                1.1445499
 2023-02-17   Monthly Endowment: $2,500 (8 of 120)                                                                      0.10492783   1.24947773
-2023-02-20   NordicFuzzCon: $0.66 Cash Donation toward Plushies (0.66 USD)                                             0.00002687   1.2495046
-2023-02-22   NordicFuzzCon: $20.49 Cash Donation toward Membership Program (213.00 SEK)                                0.00086923   1.25037383
-2023-02-23   NordicFuzzCon: $2.10 Cash Donation toward Kigurumis (22.00 SEK)                                           0.0000893    1.25046313
-2023-02-24   NordicFuzzCon: $9.54 Cash Donation toward Stickers (100.00 SEK)                                           0.00040417   1.2508673
-2023-02-25   NordicFuzzCon: $0.74 Cash Donation toward Membership Program (0.70 EUR)                                   0.00003242   1.25089972
-2023-02-26   NordicFuzzCon: $95.25 Cash Donation toward Membership Program (1000.00 SEK)                               0.0041684    1.25506812
-2023-02-26   NordicFuzzCon: $38.08 Cash Donation toward Membership Program (400.00 SEK)                                0.00165617   1.25672429
+2023-02-20   NordicFuzzCon: Cash Donation of $0.66 toward Plushies (0.66 USD)                                          0.00002687   1.2495046
+2023-02-22   NordicFuzzCon: Cash Donation of $20.49 toward Membership Program (213.00 SEK)                             0.00086923   1.25037383
+2023-02-23   NordicFuzzCon: Cash Donation of $2.10 toward Kigurumis (22.00 SEK)                                        0.0000893    1.25046313
+2023-02-24   NordicFuzzCon: Cash Donation of $9.54 toward Stickers (100.00 SEK)                                        0.00040417   1.2508673
+2023-02-25   NordicFuzzCon: Cash Donation of $0.74 toward Membership Program (0.70 EUR)                                0.00003242   1.25089972
+2023-02-26   NordicFuzzCon: Cash Donation of $95.25 toward Membership Program (1000.00 SEK)                            0.0041684    1.25506812
+2023-02-26   NordicFuzzCon: Cash Donation of $38.08 toward Membership Program (400.00 SEK)                             0.00165617   1.25672429
 2023-02-26   Funds Consolidation to Treasury                                                             -0.00000648                1.25671781
 2023-02-26   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.03216185                1.22455596
 2023-02-26   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.02144173                1.20311423
@@ -116,9 +116,9 @@ Date         Transaction Description                                            
 2023-02-26   Staff Artist: $350 Monthly Living Expenses (Mexico)                                         -0.01495449                1.17320525
 2023-02-26   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00745775                1.1657475
 2023-02-26   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00755773                1.15818977
-2023-02-26   NordicFuzzCon: $10.55 Cash Donation toward Enamel Pins (10.00 EUR)                                        0.00045124   1.15864101
-2023-02-26   NordicFuzzCon: $5.27 Cash Donation toward Kigurumis (5.00 EUR)                                            0.00022562   1.15886663
-2023-02-26   NordicFuzzCon: $5.27 Cash Donation toward Posters (5.00 EUR)                                              0.00022562   1.15909225
+2023-02-26   NordicFuzzCon: Cash Donation of $10.55 toward Enamel Pins (10.00 EUR)                                     0.00045124   1.15864101
+2023-02-26   NordicFuzzCon: Cash Donation of $5.27 toward Kigurumis (5.00 EUR)                                         0.00022562   1.15886663
+2023-02-26   NordicFuzzCon: Cash Donation of $5.27 toward Posters (5.00 EUR)                                           0.00022562   1.15909225
 2023-03-07   Merchandise Production: $1,150 for 1,000 48x80cm 180GSM Poster Prints of "Broken" (China)   -0.05137347                1.10771878
 2023-03-07   Sourcing Agent: $100 for Sourcing and Management of "Broken" Posters Order (Pakistan)       -0.00447731                1.10324147
 2023-03-07   Staff Artist: $450 Wellbeing Bonus (Venezuela)                                              -0.02011485                1.08312662
@@ -192,4 +192,102 @@ Date         Transaction Description                                            
 2023-08-30   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00635861                0.76611138
 2023-08-30   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00635075                0.75976063
 2023-09-02   Staff Artist: $400 Wellbeing Bonus (El Salvador)                                            -0.01553554                0.74422509
+2023-09-03   Eurofurence 27: Cash Donation of $21.55 toward Membership Program (20.00 EUR)                             0.00084073   0.74506582
+2023-09-03   Eurofurence 27: Cash Donation of $2.21 toward Membership Program (2.05 EUR)                               0.00008626   0.74515208
+2023-09-03   Eurofurence 27: Cash Donation of $21.55 toward Membership Program (20.00 EUR)                             0.00084214   0.74599422
+2023-09-03   Eurofurence 27: Cash Donation of $5.39 toward Avatars (5.00 EUR)                                          0.00021052   0.74620474
+2023-09-03   Eurofurence 27: Cash Donation of $5.39 toward Stickers (5.00 EUR)                                         0.00021045   0.74641519
+2023-09-03   Eurofurence 27: Cash Donation of $1.08 toward Stickers (1.00 EUR)                                         0.00004209   0.74645728
+2023-09-03   Eurofurence 27: Cash Donation of $2.15 toward Enamel Pins (2.00 EUR)                                      0.00008424   0.74654152
+2023-09-03   Eurofurence 27: Cash Donation of $10.78 toward Membership Program (10.00 EUR)                             0.00041936   0.74696088
+2023-09-03   Eurofurence 27: Cash Donation of $10.77 toward Plushies (10.00 EUR)                                       0.00041887   0.74737975
+2023-09-03   Eurofurence 27: Cash Donation of $3.23 toward Kigurumis (3.00 EUR)                                        0.00012548   0.74750523
+2023-09-03   Eurofurence 27: Cash Donation of $2.16 toward Plushies (2.00 EUR)                                         0.00008366   0.74758889
+2023-09-03   Eurofurence 27: Cash Donation of $1.08 toward Posters (1.00 EUR)                                          0.00004192   0.74763081
+2023-09-04   Eurofurence 27: Cash Donation of $5.39 toward Avatars (5.00 EUR)                                          0.0002097    0.74784051
+2023-09-04   Eurofurence 27: Cash Donation of $12.59 toward Membership Program (10.00 GBP)                             0.00049089   0.7483314
+2023-09-04   Eurofurence 27: Cash Donation of $6.29 toward Enamel Pins (5.00 GBP)                                      0.00024545   0.74857685
+2023-09-04   Eurofurence 27: Cash Donation of $18.88 toward Plushies (15.00 GBP)                                       0.00073634   0.74931319
+2023-09-04   Eurofurence 27: Cash Donation of $12.59 toward Posters (10.00 GBP)                                        0.00049089   0.74980408
+2023-09-04   Eurofurence 27: Cash Donation of $0.43 toward Plushies (0.40 EUR)                                         0.00001688   0.74982096
+2023-09-04   Eurofurence 27: Cash Donation of $7.35 toward Kigurumis (10.00 CAD)                                       0.00028776   0.75010872
+2023-09-04   Eurofurence 27: Cash Donation of $7.35 toward Avatars (10.00 CAD)                                         0.00028776   0.75039648
+2023-09-04   Eurofurence 27: Cash Donation of $5.40 toward Kigurumis (5.00 EUR)                                        0.00021118   0.75060766
+2023-09-04   Eurofurence 27: Cash Donation of $5.40 toward Plushies (5.00 EUR)                                         0.00021118   0.75081884
+2023-09-04   Eurofurence 27: Cash Donation of $21.60 toward Plushies (20.00 EUR)                                       0.00084379   0.75166263
+2023-09-04   Eurofurence 27: Cash Donation of $10.80 toward Membership Program (10.00 EUR)                             0.00042214   0.75208477
+2023-09-04   Eurofurence 27: Cash Donation of $5.40 toward Kigurumis (5.00 EUR)                                        0.00021051   0.75229528
+2023-09-04   Eurofurence 27: Cash Donation of $5.40 toward Plushies (5.00 EUR)                                         0.00021051   0.75250579
+2023-09-04   Eurofurence 27: Cash Donation of $5.40 toward Kigurumis (5.00 EUR)                                        0.00021052   0.75271631
+2023-09-04   Eurofurence 27: Cash Donation of $5.40 toward Plushies (5.00 EUR)                                         0.00021052   0.75292683
+2023-09-04   Eurofurence 27: Cash Donation of $5.40 toward Plushies (5.00 EUR)                                         0.00021086   0.75313769
+2023-09-04   Eurofurence 27: Cash Donation of $11.00 toward Avatars (11.00 USD)                                        0.00042889   0.75356658
+2023-09-04   Eurofurence 27: Cash Donation of $3.37 toward Plushies (3.12 EUR)                                         0.00013203   0.75369861
+2023-09-04   Eurofurence 27: Cash Donation of $10.80 toward Posters (10.00 EUR)                                        0.00042131   0.75411992
+2023-09-04   Eurofurence 27: Cash Donation of $23.76 toward Avatars (22.00 EUR)                                        0.00092755   0.75504747
+2023-09-04   Eurofurence 27: Cash Donation of $1.08 toward Posters (1.00 EUR)                                          0.00004208   0.75508955
+2023-09-04   Eurofurence 27: Cash Donation of $1.26 toward Enamel Pins (1.00 GBP)                                      0.00004923   0.75513878
+2023-09-04   Eurofurence 27: Cash Donation of $10.80 toward Membership Program (10.00 EUR)                             0.0004217    0.75556048
+2023-09-04   Eurofurence 27: Cash Donation of $2.83 toward Plushies (2.62 EUR)                                         0.00011045   0.75567093
+2023-09-04   Eurofurence 27: Cash Donation of $21.60 toward Posters (20.00 EUR)                                        0.00084277   0.7565137
+2023-09-04   Eurofurence 27: Cash Donation of $5.40 toward Membership Program (5.00 EUR)                               0.00021062   0.75672432
+2023-09-04   Eurofurence 27: Cash Donation of $10.80 toward Kigurumis (10.00 EUR)                                      0.00042237   0.75714669
+2023-09-04   Eurofurence 27: Cash Donation of $2.16 toward Membership Program (2.00 EUR)                               0.0000848    0.75723149
+2023-09-05   Eurofurence 27: Cash Donation of $2.16 toward Membership Program (2.00 EUR)                               0.00008496   0.75731645
+2023-09-05   Eurofurence 27: Cash Donation of $3.24 toward Membership Program (3.00 EUR)                               0.00012722   0.75744367
+2023-09-05   Eurofurence 27: Cash Donation of $10.80 toward Posters (10.00 EUR)                                        0.00042342   0.75786709
+2023-09-05   Eurofurence 27: Cash Donation of $2.92 toward Kigurumis (2.70 EUR)                                        0.00011415   0.75798124
+2023-09-05   Eurofurence 27: Cash Donation of $10.80 toward Membership Program (10.00 EUR)                             0.00042338   0.75840462
+2023-09-05   Eurofurence 27: Cash Donation of $10.80 toward Posters (10.00 EUR)                                        0.00042315   0.75882777
+2023-09-05   Eurofurence 27: Cash Donation of $21.60 toward Membership Program (20.00 EUR)                             0.00084605   0.75967382
+2023-09-05   Eurofurence 27: Cash Donation of $5.40 toward Enamel Pins (5.00 EUR)                                      0.00021147   0.75988529
+2023-09-05   Eurofurence 27: Cash Donation of $5.40 toward Kigurumis (5.00 EUR)                                        0.00021147   0.76009676
+2023-09-05   Eurofurence 27: Cash Donation of $5.40 toward Plushies (5.00 EUR)                                         0.00021147   0.76030823
+2023-09-05   Eurofurence 27: Cash Donation of $10.72 toward Avatars (10.00 EUR)                                        0.00042138   0.76072961
+2023-09-05   Eurofurence 27: Cash Donation of $1.61 toward Posters (1.50 EUR)                                          0.00006313   0.76079274
+2023-09-05   Eurofurence 27: Cash Donation of $107.25 toward Enamel Pins (100.00 EUR)                                  0.00421437   0.76500711
+2023-09-05   Eurofurence 27: Cash Donation of $21.44 toward Posters (20.00 EUR)                                        0.00084337   0.76585048
+2023-09-05   Eurofurence 27: Cash Donation of $10.72 toward Posters (10.00 EUR)                                        0.0004213    0.76627178
+2023-09-05   Eurofurence 27: Cash Donation of $4.29 toward Plushies (4.00 EUR)                                         0.00016841   0.76644019
+2023-09-05   Eurofurence 27: Cash Donation of $1.07 toward Kigurumis (1.00 EUR)                                        0.00004215   0.76648234
+2023-09-05   Eurofurence 27: Cash Donation of $1.61 toward Posters (1.50 EUR)                                          0.00006327   0.76654561
+2023-09-05   Eurofurence 27: Cash Donation of $10.73 toward Kigurumis (10.00 EUR)                                      0.00042131   0.76696692
+2023-09-06   Eurofurence 27: Cash Donation of $32.17 toward Kigurumis (30.00 EUR)                                      0.00126252   0.76822944
+2023-09-06   Eurofurence 27: Cash Donation of $42.89 toward Posters (40.00 EUR)                                        0.00168217   0.76991161
+2023-09-06   Eurofurence 27: Cash Donation of $10.73 toward Membership Program (10.00 EUR)                             0.00042095   0.77033256
+2023-09-06   Eurofurence 27: Cash Donation of $3.22 toward Posters (3.00 EUR)                                          0.00012617   0.77045873
+2023-09-06   Eurofurence 27: Cash Donation of $16.08 toward Posters (15.00 EUR)                                        0.00063092   0.77108965
+2023-09-06   Eurofurence 27: Cash Donation of $15.01 toward Membership Program (14.00 EUR)                             0.0005882    0.77167785
+2023-09-06   Eurofurence 27: Cash Donation of $16.08 toward Membership Program (15.00 EUR)                             0.00062992   0.77230777
+2023-09-06   Eurofurence 27: Cash Donation of $10.72 toward Kigurumis (10.00 EUR)                                      0.00041986   0.77272763
+2023-09-06   Eurofurence 27: Cash Donation of $5.36 toward Membership Program (5.00 EUR)                               0.00020993   0.77293756
+2023-09-06   Eurofurence 27: Cash Donation of $21.43 toward Kigurumis (20.00 EUR)                                      0.00084577   0.77378333
+2023-09-06   Eurofurence 27: Cash Donation of $5.36 toward Plushies (5.00 EUR)                                         0.00021128   0.77399461
+2023-09-06   Eurofurence 27: Cash Donation of $10.72 toward Membership Program (10.00 EUR)                             0.00042322   0.77441783
+2023-09-06   Eurofurence 27: Cash Donation of $10.71 toward Posters (10.00 EUR)                                        0.00042322   0.77484105
+2023-09-06   Eurofurence 27: Cash Donation of $10.72 toward Posters (10.00 EUR)                                        0.00042352   0.77526457
+2023-09-06   Eurofurence 27: Cash Donation of $1.10 toward Membership Program (1.03 EUR)                               0.00004358   0.77530815
+2023-09-06   Eurofurence 27: Cash Donation of $10.71 toward Plushies (10.00 EUR)                                       0.00042324   0.77573139
+2023-09-06   Eurofurence 27: Cash Donation of $32.15 toward Plushies (30.00 EUR)                                       0.00126956   0.77700095
+2023-09-06   Eurofurence 27: Cash Donation of $3.22 toward Plushies (3.00 EUR)                                         0.00012554   0.77712649
+2023-09-06   Eurofurence 27: Cash Donation of $2.14 toward Membership Program (2.00 EUR)                               0.00008458   0.77721107
+2023-09-06   Eurofurence 27: Cash Donation of $0.97 toward Membership Program (0.90 EUR)                               0.00003809   0.77724916
+2023-09-06   Eurofurence 27: Cash Donation of $1.79 toward Membership Program (650 HUF)                                0.0000704    0.77731956
+2023-09-06   Eurofurence 27: Cash Donation of $1.07 toward Membership Program (1.00 EUR)                               0.00004221   0.77736177
+2023-09-06   Eurofurence 27: Cash Donation of $3.22 toward Membership Program (3.00 EUR)                               0.00012663   0.7774884
+2023-09-06   Eurofurence 27: Cash Donation of $5.36 toward Stickers (5.00 EUR)                                         0.00021089   0.77769929
+2023-09-07   Eurofurence 27: Cash Donation of $2.68 toward Membership Program (2.50 EUR)                               0.00010556   0.77780485
+2023-09-07   Eurofurence 27: Cash Donation of $10.72 toward Membership Program (10.00 EUR)                             0.00042093   0.77822578
+2023-09-07   Eurofurence 27: Cash Donation of $10.72 toward Kigurumis (10.00 EUR)                                      0.00042093   0.77864671
+2023-09-07   Eurofurence 27: Cash Donation of $10.72 toward Membership Program (10.00 EUR)                             0.00042091   0.77906762
+2023-09-07   Eurofurence 27: Cash Donation of $0.54 toward Membership Program (0.50 EUR)                               0.00002105   0.77908867
+2023-09-07   Eurofurence 27: Cash Donation of $6.43 toward Membership Program (6.00 EUR)                               0.00025259   0.77934126
+2023-09-07   Eurofurence 27: Cash Donation of $10.72 toward Membership Program (10.00 EUR)                             0.00042107   0.77976233
+2023-09-07   Eurofurence 27: Cash Donation of $1.29 toward Plushies (1.20 EUR)                                         0.00005044   0.77981277
+2023-09-07   Eurofurence 27: Cash Donation of $2.14 toward Membership Program (2.00 EUR)                               0.0000841    0.77989687
+2023-09-07   Eurofurence 27: Cash Donation of $7.51 toward Membership Program (7.00 EUR)                               0.00029447   0.78019134
+2023-09-07   Eurofurence 27: Cash Donation of $21.44 toward Plushies (20.00 EUR)                                       0.00084207   0.78103341
+2023-09-07   Eurofurence 27: Cash Donation of $3.75 toward Stickers (3.50 EUR)                                         0.0001474    0.78118081
+2023-09-07   Eurofurence 27: Cash Donation of $10.72 toward Posters (10.00 EUR)                                        0.0004211    0.78160191
+2023-09-07   Eurofurence 27: Cash Donation of $4.29 toward Avatars (4.00 EUR)                                          0.00016846   0.78177037
 ----------------------------------------------------------------------------------------------------------------------------------------------
