@@ -9,7 +9,7 @@ zpub6qbtXZttGc816fRMz4W7Q67Ko3aNJrdf6LSnPAPjjhJKwobNHff7uEBaEWVT5rs31Pj5eBohtUEp
 Account labels are available at:
 https://danglebat.com/bitcoin/labels.json
 
-As of 2023-09-07 our balance is 0.78177037 BTC.
+As of 2023-09-30 our balance is 0.78675152 BTC.
 
 
 
@@ -272,7 +272,7 @@ Date         Transaction Description                                            
 2023-09-06   Eurofurence 27: Cash Donation of $3.22 toward Plushies (3.00 EUR)                                         0.00012554   0.77712649
 2023-09-06   Eurofurence 27: Cash Donation of $2.14 toward Membership Program (2.00 EUR)                               0.00008458   0.77721107
 2023-09-06   Eurofurence 27: Cash Donation of $0.97 toward Membership Program (0.90 EUR)                               0.00003809   0.77724916
-2023-09-06   Eurofurence 27: Cash Donation of $1.79 toward Membership Program (650 HUF)                                0.0000704    0.77731956
+2023-09-06   Eurofurence 27: Cash Donation of $1.79 toward Membership Program (650.00 HUF)                             0.0000704    0.77731956
 2023-09-06   Eurofurence 27: Cash Donation of $1.07 toward Membership Program (1.00 EUR)                               0.00004221   0.77736177
 2023-09-06   Eurofurence 27: Cash Donation of $3.22 toward Membership Program (3.00 EUR)                               0.00012663   0.7774884
 2023-09-06   Eurofurence 27: Cash Donation of $5.36 toward Stickers (5.00 EUR)                                         0.00021089   0.77769929
@@ -290,4 +290,23 @@ Date         Transaction Description                                            
 2023-09-07   Eurofurence 27: Cash Donation of $3.75 toward Stickers (3.50 EUR)                                         0.0001474    0.78118081
 2023-09-07   Eurofurence 27: Cash Donation of $10.72 toward Posters (10.00 EUR)                                        0.0004211    0.78160191
 2023-09-07   Eurofurence 27: Cash Donation of $4.29 toward Avatars (4.00 EUR)                                          0.00016846   0.78177037
+2023-09-20   Furnavia: $1.87 Cash Donation toward Enamel Pins (20.00 NOK)                                              0.00006967   0.78184004
+2023-09-20   Furnavia: $9.33 Cash Donation toward Enamel Pins (100.00 NOK)                                             0.00034843   0.78218847
+2023-09-21   Furnavia: $1.00 Cash Donation toward Plushies (1.00 USD)                                                  0.00003811   0.78222658
+2023-09-22   Furnavia: $5.32 Cash Donation toward Plushies (5.00 EUR)                                                  0.00020177   0.78242835
+2023-09-24   Furnavia: $1.14 Cash Donation toward Posters (8.00 DKK)                                                   0.00004345   0.7824718
+2023-09-24   Furnavia: $0.37 Cash Donation toward Plushies (4.00 NOK)                                                  0.00001415   0.78248595
+2023-09-24   Furnavia: $4.05 Cash Donation toward Plushies (45.00 SEK)                                                 0.00015363   0.78263958
+2023-09-24   Furnavia: $2.00 Cash Donation toward Plushies (2.00 USD)                                                  0.00007592   0.7827155
+2023-09-24   Furnavia: $4.64 Cash Donation toward Plushies (50.00 NOK)                                                 0.00017622   0.78289172
+2023-09-25   Furnavia: $3.91 Cash Donation toward Avatars (42.00 NOK)                                                  0.00015096   0.78304268
+2023-09-26   Furnavia: $18.48 Cash Donation toward Membership Program (200.00 NOK)                                     0.0007104    0.78375308
+2023-09-29   Monthly Endowment: $2,500 (15 of 120)                                                                     0.09256919   0.87632227
+2023-09-30   Funds Consolidation to Treasury                                                             -0.0001211                 0.87620117
+2023-09-30   Staff Artist: $750 Monthly Living Expenses (El Salvador)                                    -0.0279473                 0.84825387
+2023-09-30   Staff Artist: $500 Monthly Living Expenses (Brazil)                                         -0.01865294                0.82960093
+2023-09-30   Staff Artist: $400 Monthly Living Expenses (Dominican Republic)                             -0.01489741                0.81470352
+2023-09-30   Staff Artist: $400 Monthly Living Expenses (Mexico)                                         -0.01490467                0.79979885
+2023-09-30   Staff Artist: $175 Monthly Living Expenses (Mexico)                                         -0.00652481                0.79327404
+2023-09-30   Staff Artist: $175 Monthly Living Expenses (Venezuela)                                      -0.00652252                0.78675152
 ----------------------------------------------------------------------------------------------------------------------------------------------
