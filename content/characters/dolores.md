@@ -12,6 +12,8 @@ artists:
 ---
 ## Character Reference Sheet
 {{< image src="/references/dolores.png" alt="Character Reference Sheet" position="center" style="border-radius: 8px;" >}}
+## Sticker Designs
+{{< image src="/stickers/dolores01.png" alt="Sticker Design 1" position="center" style="border-radius: 8px;" >}}
 >Credits
 >
 >Character Design: [Lil Taiga](https://twitter.com/liltaiga4)  
